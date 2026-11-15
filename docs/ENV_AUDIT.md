@@ -41,8 +41,22 @@ Tarih: 15 Kasım 2026, Europe/Istanbul. Betik: `scripts/audit-env.ps1`. Yerel ay
 
 | Kurulacak paket | Gerekçe | Hedef | Onay |
 |---|---|---|---|
-| Android SDK Build-Tools **36.0.0** | Gradle `:expo:compileDebugJavaWithJavac`: `Failed to find Build Tools revision 36.0.0`. Uygulama kökü 37.0.0 seçse de Expo kütüphane modülü bu ek sürümü istiyor. | `C:\Android\Sdk\build-tools\36.0.0` | Bekleniyor |
+| Android SDK Build-Tools **36.0.0** | Gradle `:expo:compileDebugJavaWithJavac`: `Failed to find Build Tools revision 36.0.0`. Uygulama kökü 37.0.0 seçse de Expo kütüphane modülü bu ek sürümü istiyor. | `C:\Android\Sdk\build-tools\36.0.0` | 2026-11-15 açık onayla kuruldu; source.properties Pkg.Revision=36.0.0 |
 
-Gerekirse yalnızca bu pakete ait Android SDK lisans kabulü de onay kapsamında olmalı. Kurulum betiği `scripts/install-approved-sdk.ps1` hazır; **çalıştırılmadı**. Android Studio/Docker/JDK/Node/PostgreSQL yeniden kurulmayacak; kalıcı PATH ve kayıt defteri değişikliği planlanmıyor.
+Kullanıcı yalnızca Build-Tools36 kurulumu ve gerekiyorsa standart Android SDK lisansı için açık onay verdi. `scripts/install-approved-sdk.ps1 -Approved -AcceptPackageLicense` başarıyla çalıştırıldı. Toplu `--licenses` çalıştırılmadı; diğer paketler kurulmadı. Lisans yeniden gösterilmedi; mevcut kabul ile paket kurulumu tamamlandı. Build-Tools dizinleri artık 35.0.0,36.0.0,37.0.0. Android Studio/Docker/JDK/Node/PostgreSQL yeniden kurulmadı; kalıcı PATH veya kayıt defteri değiştirilmedi.
 
-Faz 0 henüz tamamlanmadı: eksik Build-Tools kurulumu kullanıcı kapısında bekliyor. Mobilde iki bileşen testi, TypeScript ve lint başarılı; backend henüz yok. APK üretilmedi.
+Faz0 ortam kabulü sağlandı: onaylı eksik araç kuruldu, JDK17 hazır, telefon yeniden `device`, API30 arm64. APK kanıtı Faz1'de devam ediyor. Mobilde iki bileşen testi, TypeScript ve lint yeniden başarılı; backend henüz yok.
+
+## Desktop / OneDrive / kısa yol kontrolü — 2026-11-15
+
+- `HKCU\...\Explorer\User Shell Folders` Desktop değeri ve `.NET GetFolderPath(Desktop)` sonucu: **C:\Users\perih\Desktop**.
+- OneDrive ve OneDriveConsumer ortam kökü ile Personal hesap UserFolder: **C:\Users\perih\OneDrive**. Desktop bu kökün içinde değil.
+- Desktop: ReadOnly,Directory; proje ve node_modules: Directory. LinkType boş, Target yok; junction/symlink/reparse yönlendirmesi saptanmadı.
+- Standart OneDrive Desktop yönlendirmesi/eşitlemesi kanıtı yok. Bu nedenle şu an taşınmadı. LongPathsEnabled=0 olduğundan native derlemede yol hatası izleniyor; gerçek hata çıkarsa kullanıcı yetkisi kapsamında kısa ve eşitlenmeyen C:\dev\kok konumuna Git geçmişini koruyarak geçilecek. O konum kontrolde mevcut değildi.
+- Açık build sürerken dosyalar taşınmıyor. Node_modules veya Gradle kilidi nedeniyle hata henüz görülmedi. Konum kontrolü native derlemenin başarı kanıtı değildir.
+
+## Telefon kurulum alanı kontrolü — 2026-11-15
+
+Telefon başlangıçta bağlı görünmüyordu; kullanıcı USB iznini yeniden verdi ve Redmi Note9S tekrar `device` oldu. Yeni df: **1.351.504 KiB = 1.383.940.096 byte (~1,29 GiB)** boş. Android devicestoragemonitor: level=NORMAL, lowBytes=524.288.000 (500MiB), fullBytes=1.048.576.
+
+Gerçek APK boyutu oluşunca kurulum öncesi yeniden ölçülecek. `scripts/check-device-space.ps1`, APK içindeki native/DEX boyutlarını okuyup konservatif bütçeyi kaydeder: **2×APK + tüm native açılmış boyutları + 2×DEX + 100MiB başlangıç + Android lowBytes eşiği**. Bu tam Android ayırma miktarı değil, eşik altında kalmayı önleyen üst bütçedir. Yetmezse kurulum engellenir; kişisel dosya silinmez. Aritmetik için eşit eşik, 1 byte eksik ve 64-bit boyut testleri geçti.

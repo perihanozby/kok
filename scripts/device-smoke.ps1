@@ -13,6 +13,7 @@ if ((Invoke-Adb @('get-state')).Trim() -ne 'device') { throw 'Authorized device 
 if (-not $SkipInstall) {
   $apk = Join-Path $root 'mobile\android\app\build\outputs\apk\debug\app-debug.apk'
   if (-not (Test-Path $apk)) { throw "APK missing: $apk" }
+  & "$PSScriptRoot\check-device-space.ps1" -Serial $Serial -ApkPath $apk
   Invoke-Adb @('install','-r',$apk)
 }
 Invoke-Adb @('reverse','tcp:8081','tcp:8081')

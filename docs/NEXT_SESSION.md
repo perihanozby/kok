@@ -1,15 +1,15 @@
 # Devam noktası
 
-Faz 0, eksik Build-Tools 36.0.0 için kullanıcı onayı kapısında. Önce git status/log, IMPLEMENTATION_PROGRESS.md ve ENV_AUDIT.md okunmalı. `mobile/` Expo58 development build, başlangıç ekranı ve testlerini içeriyor; APK henüz yok.
+Faz0 ortam kabulü sağlandı, Build-Tools36.0.0 açık kullanıcı onayıyla kuruldu. Faz1 debug derlemesi devam ediyor. Önce git status/log, IMPLEMENTATION_PROGRESS.md ve ENV_AUDIT.md okunmalı. Kullanıcı **başka paket kurulmasını yasakladı**; SDK otomatik indirmesini kapalı tut.
 
-1. Kullanıcının Build-Tools36 ve gerekirse ilgili SDK lisansı için açık onay verip vermediğini kontrol et. Onay yoksa kurulum yapma.
-2. Onay geldiyse `powershell.exe -NoProfile -ExecutionPolicy Bypass -File scripts/install-approved-sdk.ps1 -Approved -AcceptPackageLicense` çalıştır. Kabul kapsamı yalnızca bu pakettir; toplu `--licenses` çalıştırma.
+1. Aktif build/process ve docs/build-debug.local.log durumunu kontrol et; aynı derlemeyi eşzamanlı tekrar başlatma.
+2. Build-Tools36 zaten kuruldu; yeniden kurma. Yeni eksik SDK ihtiyacı çıkarsa kullanıcıya bildir; onay kapsamı başka paketleri içermez.
 3. Node/npm/JDK/SDK süreç ortamını env.ps1 ile yükle. `npm ci --ignore-scripts --include=dev`, typecheck/lint/test ve audit sonuçlarını kontrol et.
 4. Değişen native güvenlik/bellek eklentisini `expo prebuild --platform android --no-install` ile uygula; beklenmedik temizleme yapma. İlk prebuild native klasörü yeniden üretmişti; önemli ayarlar artık config plugin içinde.
-5. Faz0 denetimini yeniden doğrula; kabul sağlanınca phase-0 etiketi ve ilerleme kaydı. Ek araç eksiği çıkarsa kurmadan önce belgeleyip onay kapsamını kontrol et.
+5. Desktop OneDrive'a yönlendirilmemiş; şimdilik mevcut kök korunuyor. Gerçek long-path/kilit hatası çıkarsa kullanıcının yetkisiyle kısa konuma Git geçmişini koruyarak geç. Recursive move/delete öncesi mutlak yolları doğrula, kaynak veriyi kaybetme.
 6. `scripts/build-debug.ps1` ile debug APK üret; hata olursa önce gerçek hata kaynağını düzelt. SDK otomatik kurulumu kapalı kalmalı.
 7. Metro'yu `expo start --dev-client --localhost --port 8081` ile başlat; localhost dışına açma.
-8. `scripts/device-smoke.ps1` ile kur/ADB reverse/başlat/log/screenshot; screenshot'u görsel olarak incele. Gerekirse ilk bundle'ın bitmesini bekleyip tekrar yakala. PII içerebilen logcat yerelde ve Git dışında.
+8. APK oluşunca `scripts/check-device-space.ps1` çalıştır; JSON raporundaki gerçek APK+native+DEX boyutlarıyla konservatif bütçeyi doğrula. Yetmezse kurma; ek boşaltılacak miktarı söyle. Yeterliyse `scripts/device-smoke.ps1` ile kur/ADB reverse/başlat/log/screenshot; screenshot'u görsel incele. PII içerebilen logcat yerelde ve Git dışında.
 9. Faz1 kabulünde kullanıcıya yalnızca “Telefonda KÖK açılış ekranını görüyor musun?” sorusu. Kullanıcı doğrulaması olmadan Faz2'ye geçme.
 
 Ortam: süreç için scripts/env.ps1; kalıcı PATH/registry değiştirme. Telefon API 30 arm64; SDK C:\Android\Sdk; JDK17. PostgreSQL17 mevcut ve çalışıyor. Docker kapalı ve zorunlu değil. Sistem PowerShell politikası için sadece alt süreç Bypass kullanılır.
