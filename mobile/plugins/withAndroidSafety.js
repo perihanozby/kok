@@ -21,6 +21,7 @@ module.exports = function withAndroidSafety(config) {
       'org.gradle.workers.max': '1',
       'org.gradle.java.installations.auto-download': 'false',
       'android.builder.sdkDownload': 'false',
+      'expo.android.cmakeObjectPathMax': '200',
       reactNativeArchitectures: 'arm64-v8a',
     };
     for (const [key, value] of Object.entries(settings)) {

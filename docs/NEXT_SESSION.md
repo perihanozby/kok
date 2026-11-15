@@ -1,3 +1,7 @@
+# Aktif proje konumu: C:\dev\kok
+
+Desktop klasörü korunmuş bir yedektir. Güncel geliştirme, derleme ve Git işlemleri C:\dev\kok altında yapılmalıdır. Başka SDK/npm paketi kurma; mevcut bağımlılıklar kopyalandı. Uzun yol hatası nedeniyle CMake nesne yolu sınırı 200 olarak ayarlandı. Yeni kökte debug derlemesi ve kurulum doğrulaması bekliyor.
+
 # Devam noktası
 
 Faz0 ortam kabulü sağlandı, Build-Tools36.0.0 açık kullanıcı onayıyla kuruldu. Faz1 debug derlemesi devam ediyor. Önce git status/log, IMPLEMENTATION_PROGRESS.md ve ENV_AUDIT.md okunmalı. Kullanıcı **başka paket kurulmasını yasakladı**; SDK otomatik indirmesini kapalı tut.
