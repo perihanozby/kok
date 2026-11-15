@@ -1,0 +1,2747 @@
+[
+  {
+    "folder": "01_a_l_ekran_splash",
+    "title": "",
+    "headings": [
+      "KÖK"
+    ],
+    "buttons": [],
+    "fields": [],
+    "icons": [
+      "verified_user",
+      "lock",
+      "family_history",
+      "nature"
+    ],
+    "png": {
+      "width": 706,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "02_onboarding_aile_hat_ralar",
+    "title": "",
+    "headings": [
+      "Kuşaktan Kuşağa Aile Hatıraları"
+    ],
+    "buttons": [
+      "Atla",
+      "İleri arrow_forward"
+    ],
+    "fields": [],
+    "icons": [
+      "auto_stories",
+      "favorite",
+      "arrow_forward"
+    ],
+    "png": {
+      "width": 706,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "03_onboarding_sesli_hik_yeler",
+    "title": "",
+    "headings": [
+      "Büyüklerinizin Sesi Hiç Susmasın"
+    ],
+    "buttons": [
+      "arrow_back",
+      "Atla",
+      "play_arrow",
+      "İleri arrow_forward"
+    ],
+    "fields": [],
+    "icons": [
+      "arrow_back",
+      "play_arrow",
+      "mic",
+      "family_history",
+      "arrow_forward"
+    ],
+    "png": {
+      "width": 706,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "04_onboarding_zel_aile_alan",
+    "title": "",
+    "headings": [
+      "Ailenize Özel Mahrem ve Güvenli Sandık"
+    ],
+    "buttons": [
+      "arrow_back",
+      "Başlayalım arrow_forward",
+      "Zaten hesabım var — Giriş Yap"
+    ],
+    "fields": [],
+    "icons": [
+      "arrow_back",
+      "auto_stories",
+      "mic",
+      "lock",
+      "photo_library",
+      "verified_user",
+      "arrow_forward"
+    ],
+    "png": {
+      "width": 706,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "05_dil_se_imi",
+    "title": "",
+    "headings": [
+      "05 Dil Secimi",
+      "Uygulama Dilini Seçin"
+    ],
+    "buttons": [
+      "arrow_back_ios_new",
+      "Devam Et arrow_forward"
+    ],
+    "fields": [
+      "<input checked=\"\" class=\"sr-only peer\" name=\"app_language\" type=\"radio\" value=\"tr\"/>",
+      "<input class=\"sr-only peer\" name=\"app_language\" type=\"radio\" value=\"en\"/>",
+      "<input class=\"sr-only peer\" name=\"app_language\" type=\"radio\" value=\"de\"/>",
+      "<input class=\"sr-only peer\" name=\"app_language\" type=\"radio\" value=\"fr\"/>"
+    ],
+    "icons": [
+      "arrow_back_ios_new",
+      "person",
+      "translate",
+      "check",
+      "radio_button_unchecked",
+      "info",
+      "arrow_forward",
+      "lock"
+    ],
+    "png": {
+      "width": 602,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "06_giri_yap",
+    "title": "",
+    "headings": [
+      "06 Giris Yap",
+      "Aile Sandığına Giriş Yap"
+    ],
+    "buttons": [
+      "arrow_back_ios_new",
+      "visibility_off",
+      "Şifremi Unuttum",
+      "door_open Giriş Yap"
+    ],
+    "fields": [
+      "<input aria-label=\"E-posta Adresi\" class=\"w-full h-[52px] pl-12 pr-4 bg-surface-container-lowest text-on-surface font-body-md text-body-md rounded-xl shadow-sm focus:outline-none focus:bg-surface-bright transition-colors\" id=\"emailInput\" placeholder=\"ornek@kokarsiv.com\" required=\"\" type=\"email\" value=\"selim.celik@kokarsiv.com\"/>",
+      "<input aria-label=\"Sandık Şifresi\" class=\"w-full h-[52px] pl-12 pr-14 bg-surface-container-lowest text-on-surface font-body-md text-body-md rounded-xl shadow-sm tracking-wider focus:outline-none focus:bg-surface-bright transition-colors\" id=\"passwordInput\" placeholder=\"••••••••\" required=\"\" type=\"password\" value=\"KoySepeti1974!\"/>"
+    ],
+    "icons": [
+      "arrow_back_ios_new",
+      "person",
+      "verified",
+      "lock",
+      "mail",
+      "key",
+      "visibility_off",
+      "door_open",
+      "gavel",
+      "shield",
+      "arrow_forward",
+      "progress_activity",
+      "check_circle"
+    ],
+    "png": {
+      "width": 577,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "07_hesap_olu_tur",
+    "title": "",
+    "headings": [
+      "07 Hesap Olustur"
+    ],
+    "buttons": [
+      "arrow_back_ios_new",
+      "visibility",
+      "visibility",
+      "archive Hesap Oluştur"
+    ],
+    "fields": [
+      "<input autocomplete=\"name\" class=\"w-full h-13 pl-11 pr-4 bg-surface-container-lowest rounded-xl font-body-md text-body-md text-on-surface placeholder:text-outline shadow-sm focus:outline-none focus:bg-surface-bright transition-colors\" id=\"fullName\" placeholder=\"Örn: Selim Çelik\" required=\"\" type=\"text\"/>",
+      "<input autocomplete=\"email\" class=\"w-full h-13 pl-11 pr-4 bg-surface-container-lowest rounded-xl font-body-md text-body-md text-on-surface placeholder:text-outline shadow-sm focus:outline-none focus:bg-surface-bright transition-colors\" id=\"email\" placeholder=\"Örn: selim.celik@kokarsiv.com\" required=\"\" type=\"email\"/>",
+      "<input autocomplete=\"new-password\" class=\"w-full h-13 pl-11 pr-13 bg-surface-container-lowest rounded-xl font-body-md text-body-md text-on-surface placeholder:text-outline shadow-sm focus:outline-none focus:bg-surface-bright transition-colors\" id=\"password\" oninput=\"checkPasswordCriteria(this.value)\" placeholder=\"Güvenli bir şifre girin\" required=\"\" type=\"password\"/>",
+      "<input autocomplete=\"new-password\" class=\"w-full h-13 pl-11 pr-13 bg-surface-container-lowest rounded-xl font-body-md text-body-md text-on-surface placeholder:text-outline shadow-sm focus:outline-none focus:bg-surface-bright transition-colors\" id=\"confirmPassword\" oninput=\"checkPasswordMatch()\" placeholder=\"Şifrenizi yeniden yazın\" required=\"\" type=\"password\"/>",
+      "<input class=\"sr-only peer\" id=\"termsCheckbox\" required=\"\" type=\"checkbox\"/>",
+      "<input class=\"sr-only peer\" id=\"newsletterCheckbox\" type=\"checkbox\"/>"
+    ],
+    "icons": [
+      "arrow_back_ios_new",
+      "person",
+      "auto_stories",
+      "badge",
+      "mail",
+      "lock",
+      "visibility",
+      "verified_user",
+      "shield",
+      "circle",
+      "check",
+      "archive"
+    ],
+    "png": {
+      "width": 589,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "08_ifremi_unuttum",
+    "title": "",
+    "headings": [
+      "08 Sifremi Unuttum",
+      "Sandık Şifrenizi Sıfırlayın"
+    ],
+    "buttons": [
+      "arrow_back_ios_new",
+      "send Sıfırlama Bağlantısı Gönder"
+    ],
+    "fields": [
+      "<input class=\"w-full h-12 pl-11 pr-4 bg-surface-container-low text-on-surface font-body-md text-body-md rounded-lg focus:outline-none focus:bg-surface-container transition-colors\" id=\"email-input\" placeholder=\"ornek@kokarsiv.com\" required=\"\" type=\"email\" value=\"selim.celik@kokarsiv.com\"/>"
+    ],
+    "icons": [
+      "arrow_back_ios_new",
+      "person",
+      "mail_lock",
+      "key",
+      "verified_user",
+      "alternate_email",
+      "send",
+      "mark_email_read",
+      "history_edu",
+      "arrow_back",
+      "progress_activity",
+      "check_circle"
+    ],
+    "png": {
+      "width": 706,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "09_hesap_do_rulama",
+    "title": "",
+    "headings": [
+      "09 Hesap Dogrulama",
+      "E-posta Adresinizi Doğrulayın"
+    ],
+    "buttons": [
+      "arrow_back_ios_new",
+      "Kodu Tekrar Gönder",
+      "task_alt Kodu Doğrula ve Devam Et",
+      "link Bağlantıyla Doğrulama Yöntemine Geç"
+    ],
+    "fields": [
+      "<input aria-label=\"1. hane\" class=\"otp-digit w-12 h-14 text-center font-title-lg text-title-lg text-[#2D3730] bg-surface-container-lowest rounded-xl shadow-sm focus:outline-none focus:bg-surface-container-low transition-all selection:bg-transparent\" inputmode=\"numeric\" maxlength=\"1\" type=\"text\" value=\"4\"/>",
+      "<input aria-label=\"2. hane\" class=\"otp-digit w-12 h-14 text-center font-title-lg text-title-lg text-[#2D3730] bg-surface-container-lowest rounded-xl shadow-sm focus:outline-none focus:bg-surface-container-low transition-all selection:bg-transparent\" inputmode=\"numeric\" maxlength=\"1\" type=\"text\" value=\"8\"/>",
+      "<input aria-label=\"3. hane\" class=\"otp-digit w-12 h-14 text-center font-title-lg text-title-lg text-[#2D3730] bg-surface-container-lowest rounded-xl shadow-sm focus:outline-none focus:bg-surface-container-low transition-all selection:bg-transparent\" inputmode=\"numeric\" maxlength=\"1\" type=\"text\" value=\"2\"/>",
+      "<input aria-label=\"4. hane\" class=\"otp-digit w-12 h-14 text-center font-title-lg text-title-lg text-[#2D3730] bg-surface-container-lowest rounded-xl shadow-sm focus:outline-none focus:bg-surface-container-low transition-all selection:bg-transparent\" inputmode=\"numeric\" maxlength=\"1\" type=\"text\" value=\"0\"/>",
+      "<input aria-label=\"5. hane\" class=\"otp-digit w-12 h-14 text-center font-title-lg text-title-lg text-[#2D3730] bg-surface-container-lowest rounded-xl shadow-sm focus:outline-none focus:bg-surface-container-low transition-all selection:bg-transparent\" inputmode=\"numeric\" maxlength=\"1\" type=\"text\" value=\"9\"/>",
+      "<input aria-label=\"6. hane\" class=\"otp-digit w-12 h-14 text-center font-title-lg text-title-lg text-[#2D3730] bg-surface-container-lowest rounded-xl shadow-sm focus:outline-none focus:bg-surface-container-low transition-all selection:bg-transparent\" inputmode=\"numeric\" maxlength=\"1\" type=\"text\" value=\"5\"/>"
+    ],
+    "icons": [
+      "arrow_back_ios_new",
+      "person",
+      "mark_email_unread",
+      "verified_user",
+      "hourglass_top",
+      "info",
+      "task_alt",
+      "link"
+    ],
+    "png": {
+      "width": 706,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "10_ki_isel_profil_olu_tur",
+    "title": "",
+    "headings": [
+      "10 Kisisel Profil Olustur",
+      "Aile Meclisindeki Yerinizi Belirleyin"
+    ],
+    "buttons": [
+      "arrow_back_ios_new",
+      "Daha Sonra Tamamla chevron_right",
+      "photo_camera",
+      "add_a_photo Fotoğraf Seç (İsteğe Bağlı)",
+      "Profili Kaydet ve Devam Et arrow_forward"
+    ],
+    "fields": [
+      "<input class=\"w-full min-h-[48px] bg-transparent font-body-md text-body-md text-on-surface placeholder:text-outline focus:outline-none\" id=\"full-name\" name=\"fullName\" placeholder=\"Örn: Selim Çelik\" required=\"\" type=\"text\" value=\"Selim Çelik\"/>",
+      "<input class=\"w-full min-h-[48px] bg-transparent font-body-md text-body-md text-on-surface placeholder:text-outline focus:outline-none\" id=\"birth-date\" name=\"birthDate\" placeholder=\"Örn: 14 Eylül 1968\" type=\"text\" value=\"14 Eylül 1968\"/>",
+      "<input class=\"w-full min-h-[48px] bg-transparent font-body-md text-body-md text-on-surface placeholder:text-outline focus:outline-none\" id=\"residence\" name=\"residence\" placeholder=\"Örn: İzmir, Karşıyaka\" type=\"text\" value=\"İzmir, Karşıyaka\"/>",
+      "<textarea class=\"w-full bg-transparent font-body-md text-body-md text-on-surface placeholder:text-outline focus:outline-none resize-none\" id=\"biography\" name=\"biography\" placeholder=\"Dedem Ahmet Efendi'nin hatıralarını derleyen torun...\" rows=\"3\">",
+      "<input checked=\"\" class=\"w-5 h-5 accent-primary cursor-pointer\" name=\"visibility\" type=\"radio\" value=\"all\"/>",
+      "<input class=\"w-5 h-5 accent-primary cursor-pointer\" name=\"visibility\" type=\"radio\" value=\"nuclear\"/>"
+    ],
+    "icons": [
+      "arrow_back_ios_new",
+      "person",
+      "chevron_right",
+      "eco",
+      "photo_camera",
+      "add_a_photo",
+      "badge",
+      "calendar_today",
+      "location_on",
+      "shield",
+      "arrow_forward",
+      "lock_clock",
+      "edit",
+      "sync",
+      "check_circle"
+    ],
+    "png": {
+      "width": 395,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "11_aile_alan_olu_tur",
+    "title": "",
+    "headings": [
+      "11 Aile Alani Olustur",
+      "Ailenizin Dijital Sandığını Başlatın",
+      "Davet Koduyla Katıl"
+    ],
+    "buttons": [
+      "arrow_back_ios_new",
+      "swap_horiz Görseli Değiştir",
+      "verified_user",
+      "archive Aile Alanını Oluştur",
+      "Kodu Gir chevron_right",
+      "close",
+      "Doğrula ve Sandığa Katıl"
+    ],
+    "fields": [
+      "<input class=\"w-full h-13 px-space-sm bg-surface-container-lowest text-on-surface font-body-md text-body-md rounded-lg shadow-sm placeholder:text-outline focus:outline-none focus:bg-surface-bright transition-all\" id=\"familySpaceName\" name=\"familySpaceName\" placeholder=\"Örn: Çelik &amp; Yılmaz Aile Arşivi\" required=\"\" type=\"text\" value=\"Çelik &amp; Yılmaz Aile Arşivi\"/>",
+      "<textarea class=\"w-full p-space-sm bg-surface-container-lowest text-on-surface font-body-md text-body-md rounded-lg shadow-sm placeholder:text-outline focus:outline-none focus:bg-surface-bright resize-none transition-all\" id=\"familySpaceMotto\" name=\"familySpaceMotto\" placeholder=\"Örn: Selanik'ten İzmir'e uzanan asırlık köklerimiz ve mirasımız\" rows=\"3\">",
+      "<input accept=\"image/*\" class=\"hidden\" id=\"fileUploadInput\" type=\"file\"/>",
+      "<input class=\"invite-char w-12 h-14 bg-surface-container text-center font-headline-md text-headline-md rounded-lg text-on-surface focus:outline-none focus:bg-surface-bright\" maxlength=\"1\" type=\"text\"/>",
+      "<input class=\"invite-char w-12 h-14 bg-surface-container text-center font-headline-md text-headline-md rounded-lg text-on-surface focus:outline-none focus:bg-surface-bright\" maxlength=\"1\" type=\"text\"/>",
+      "<input class=\"invite-char w-12 h-14 bg-surface-container text-center font-headline-md text-headline-md rounded-lg text-on-surface focus:outline-none focus:bg-surface-bright\" maxlength=\"1\" type=\"text\"/>",
+      "<input class=\"invite-char w-12 h-14 bg-surface-container text-center font-headline-md text-headline-md rounded-lg text-on-surface focus:outline-none focus:bg-surface-bright\" maxlength=\"1\" type=\"text\"/>",
+      "<input class=\"invite-char w-12 h-14 bg-surface-container text-center font-headline-md text-headline-md rounded-lg text-on-surface focus:outline-none focus:bg-surface-bright\" maxlength=\"1\" type=\"text\"/>",
+      "<input class=\"invite-char w-12 h-14 bg-surface-container text-center font-headline-md text-headline-md rounded-lg text-on-surface focus:outline-none focus:bg-surface-bright\" maxlength=\"1\" type=\"text\"/>"
+    ],
+    "icons": [
+      "arrow_back_ios_new",
+      "person",
+      "auto_stories",
+      "family_history",
+      "swap_horiz",
+      "lock",
+      "verified_user",
+      "shield_person",
+      "archive",
+      "mail_outline",
+      "chevron_right",
+      "key",
+      "close"
+    ],
+    "png": {
+      "width": 496,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "12_aile_alan_na_davetle_kat_l",
+    "title": "",
+    "headings": [
+      "12 Aile Alanina Davetle Katil",
+      "Bir Aile Meclisine Katılın",
+      "Çelik &amp; Yılmaz Aile Arşivi"
+    ],
+    "buttons": [
+      "arrow_back_ios_new",
+      "content_paste",
+      "how_to_reg Daveti Kabul Et ve Katıl",
+      "close Daveti Reddet"
+    ],
+    "fields": [
+      "<input aria-label=\"Davet Kodu\" class=\"w-full h-14 bg-surface-container-low text-on-surface font-title-lg text-title-lg tracking-wider uppercase px-4 rounded-lg focus:outline-none focus:bg-surface-container transition-all\" id=\"invite-code-input\" maxlength=\"16\" style=\"letter-spacing: 0.12em;\" type=\"text\" value=\"KOK-CELIK-1948\"/>"
+    ],
+    "icons": [
+      "arrow_back_ios_new",
+      "person",
+      "family_history",
+      "key",
+      "content_paste",
+      "verified",
+      "hourglass_top",
+      "auto_stories",
+      "nest_multi_room",
+      "person_pin",
+      "badge",
+      "lock",
+      "how_to_reg",
+      "close",
+      "info",
+      "progress_activity"
+    ],
+    "png": {
+      "width": 460,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "13_ana_sayfa_home_dashboard",
+    "title": "",
+    "headings": [
+      "Ana Sayfa",
+      "İyi akşamlar, Selim Bey",
+      "Dedem Ahmet Bey’in Trabzon’dan ilk mektubu",
+      "Son Sesli Anlatılar",
+      "Girit’ten İzmir’e Göç Hikâyemiz",
+      "Eski Konak Bayramları &amp; Kurulan Sofralar",
+      "Aile Aktivite Akışı",
+      "Büyük Dayı Tevfik"
+    ],
+    "buttons": [
+      "search",
+      "notifications",
+      "Hatırayı Oku arrow_forward",
+      "mic Ses Kaydet",
+      "add_photo_alternate Hatıra Ekle",
+      "account_tree Soy Ağacı",
+      "play_arrow",
+      "play_arrow",
+      "favorite_border",
+      "account_tree"
+    ],
+    "fields": [],
+    "icons": [
+      "signal_cellular_alt",
+      "wifi",
+      "battery_full",
+      "person",
+      "search",
+      "notifications",
+      "history_edu",
+      "mark_email_read",
+      "schedule",
+      "arrow_forward",
+      "mic",
+      "add_photo_alternate",
+      "account_tree",
+      "record_voice_over",
+      "chevron_right",
+      "play_arrow",
+      "diversity_3",
+      "photo_library",
+      "chat_bubble_outline",
+      "favorite_border",
+      "roofing",
+      "menu_book",
+      "groups"
+    ],
+    "png": {
+      "width": 340,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "14_aile_aktivite_ak",
+    "title": "",
+    "headings": [
+      "14 — Aile Aktivite Akışı",
+      "Bugün",
+      "1974 Heybeliada Yazlığı Hatıraları",
+      "Anneannemin Sandığından Çıkan İpek Şalın Hikâyesi",
+      "Bu Hafta",
+      "Mehmet Vasıf Çelik"
+    ],
+    "buttons": [
+      "Tümü (18)",
+      "photo_library Fotoğraflar",
+      "mic Sesli Hatıralar",
+      "account_tree Soy Ağacı",
+      "edit_note Yazılı Anılar",
+      "more_vert",
+      "favorite 14",
+      "chat_bubble_outline 2",
+      "bookmark_border",
+      "play_arrow",
+      "favorite 26",
+      "forum 7",
+      "headphones Ses Arşivi",
+      "Ağaçta Gör chevron_right",
+      "bookmark",
+      "favorite 12",
+      "mode_comment 4 aile yorumu",
+      "share"
+    ],
+    "fields": [],
+    "icons": [
+      "signal_cellular_alt",
+      "wifi",
+      "battery_full",
+      "notifications",
+      "person",
+      "photo_library",
+      "mic",
+      "account_tree",
+      "edit_note",
+      "more_vert",
+      "favorite",
+      "chat_bubble_outline",
+      "bookmark_border",
+      "graphic_eq",
+      "play_arrow",
+      "record_voice_over",
+      "forum",
+      "headphones",
+      "hub",
+      "link",
+      "chevron_right",
+      "bookmark",
+      "auto_stories",
+      "mode_comment",
+      "share",
+      "history_edu",
+      "roofing",
+      "menu_book",
+      "groups"
+    ],
+    "png": {
+      "width": 268,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "15_bildirimler",
+    "title": "",
+    "headings": [
+      "15 — Bildirimler"
+    ],
+    "buttons": [
+      "Tümünü Okundu İşaretle",
+      "Tümü 3",
+      "Davetler 1",
+      "Anılar &amp; Yorumlar",
+      "Sistem",
+      "how_to_reg Onayla ve Ekle",
+      "İncele",
+      "favorite Hatıra Ekle"
+    ],
+    "fields": [],
+    "icons": [
+      "signal_cellular_alt",
+      "wifi",
+      "battery_full",
+      "notifications",
+      "person",
+      "mail",
+      "how_to_reg",
+      "mic",
+      "play_arrow",
+      "account_tree",
+      "arrow_forward",
+      "chat_bubble",
+      "history_edu",
+      "favorite",
+      "tune",
+      "roofing",
+      "menu_book",
+      "groups"
+    ],
+    "png": {
+      "width": 482,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "16_etkile_imli_aile_soy_a_ac",
+    "title": "",
+    "headings": [
+      "Soy Ağacı",
+      "Çelik &amp; Yılmaz Soy Ağacı",
+      "Ahmet Çelik"
+    ],
+    "buttons": [
+      "search",
+      "person_add Ekle",
+      "family_restroom Tüm Kuşaklar",
+      "1. Kuşak (Büyükler)",
+      "2. Kuşak (Ebeveynler)",
+      "3. Kuşak (Biz)",
+      "4. Kuşak (Çocuklar)",
+      "expand_more",
+      "play_arrow",
+      "badge Tam Profili Gör",
+      "add_circle Yeni Anı Bağla"
+    ],
+    "fields": [],
+    "icons": [
+      "signal_cellular_alt",
+      "wifi",
+      "battery_full",
+      "person",
+      "search",
+      "person_add",
+      "family_restroom",
+      "workspace_premium",
+      "mic",
+      "photo_library",
+      "diversity_3",
+      "auto_stories",
+      "favorite",
+      "person_pin",
+      "check_circle",
+      "collections_bookmark",
+      "child_care",
+      "verified",
+      "expand_more",
+      "graphic_eq",
+      "menu_book",
+      "play_arrow",
+      "volume_up",
+      "badge",
+      "add_circle",
+      "roofing",
+      "account_tree",
+      "groups"
+    ],
+    "png": {
+      "width": 329,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "17_aile_bireyi_detay_profili",
+    "title": "",
+    "headings": [
+      "17 — Aile Bireyi Detay Profili",
+      "Ahmet Çelik",
+      "Yaşam Öyküsü &amp; Hatırat",
+      "Aile Bağları &amp; Nesil",
+      "Fatma Çelik",
+      "Hasan Çelik",
+      "Murat Çelik",
+      "Sevim Çelik (Öztürk)",
+      "Kendi Sesinden Arşiv",
+      "1974 İzmir Fuarı Anısı",
+      "Albümden Kareler"
+    ],
+    "buttons": [
+      "arrow_back",
+      "share",
+      "edit",
+      "Devamını Oku expand_more",
+      "play_arrow",
+      "Tümünü Gör (12) chevron_right",
+      "add_photo_alternate Bu Kişiye Yeni Hatıra / Belge Bağla"
+    ],
+    "fields": [],
+    "icons": [
+      "signal_cellular_alt",
+      "wifi",
+      "battery_full",
+      "arrow_back",
+      "share",
+      "edit",
+      "military_tech",
+      "calendar_today",
+      "lock",
+      "photo_library",
+      "graphic_eq",
+      "verified",
+      "history_edu",
+      "menu_book",
+      "expand_more",
+      "account_tree",
+      "favorite",
+      "mic",
+      "play_arrow",
+      "photo_camera",
+      "chevron_right",
+      "add_photo_alternate"
+    ],
+    "png": {
+      "width": 383,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "17_b_aile_bireyi_foto_raf_galerisi",
+    "title": "",
+    "headings": [
+      "Hatıra Detayı",
+      "Ahmet Çelik Fotoğraf Arşivi",
+      "Kemeraltı Mensucat Dükkânı",
+      "İlişkili Sesli Tanıklık",
+      "Bu Albüme Yeni Bir Hatıra Katın"
+    ],
+    "buttons": [
+      "arrow_back",
+      "more_vert",
+      "share",
+      "download",
+      "close",
+      "zoom_out",
+      "zoom_in",
+      "fullscreen",
+      "chevron_left",
+      "chevron_right",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "play_arrow",
+      "upload_file Fotoğraf / Belge Ekle",
+      "info"
+    ],
+    "fields": [],
+    "icons": [
+      "arrow_back",
+      "more_vert",
+      "person",
+      "share",
+      "download",
+      "close",
+      "verified",
+      "zoom_out",
+      "zoom_in",
+      "fullscreen",
+      "chevron_left",
+      "photo_library",
+      "chevron_right",
+      "collections",
+      "calendar_month",
+      "location_on",
+      "history_edu",
+      "tag",
+      "lock_person",
+      "graphic_eq",
+      "play_arrow",
+      "add_a_photo",
+      "upload_file",
+      "info"
+    ],
+    "png": {
+      "width": 343,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "18_yeni_aile_bireyi_ekleme",
+    "title": "",
+    "headings": [
+      "18 — Yeni Aile Bireyi Ekleme",
+      "Kimlik Bilgileri",
+      "Yaşam Durumu",
+      "Soy Bağı &amp; İlişki Yapısı",
+      "Kısa Biyografi &amp; İlk Hatıra",
+      "Gizlilik ve Görünürlük"
+    ],
+    "buttons": [
+      "arrow_back",
+      "share",
+      "edit",
+      "female Kadın",
+      "male Erkek",
+      "Belirtmek İstemiyorum",
+      "check Annem",
+      "Babam",
+      "Eşim",
+      "Kardeşim",
+      "Çocuğum",
+      "Büyük Ebeveyn",
+      "Diğer Akraba",
+      "add Çocuk Eşle",
+      "close",
+      "close",
+      "add_circle + Eş / Evlilik Bağı Ekle",
+      "person_add Aile Bireyini Kaydet ve Ağaca Ekle"
+    ],
+    "fields": [
+      "<input accept=\"image/*\" class=\"hidden\" id=\"avatar-input\" type=\"file\">",
+      "<input class=\"w-full bg-transparent font-body-md text-body-md text-on-surface placeholder:text-on-surface-variant/60 focus:outline-none\" id=\"fullName\" placeholder=\"Meliha Çelik (Yılmaz)\" required=\"\" type=\"text\">",
+      "<input class=\"sr-only peer\" id=\"life-toggle\" onchange=\"toggleLifeStatus(this)\" type=\"checkbox\">",
+      "<input class=\"w-full bg-transparent font-body-md text-body-md text-on-surface placeholder:text-on-surface-variant/60 focus:outline-none\" id=\"birthDate\" placeholder=\"15 Mayıs 1954 veya sadece 1954\" type=\"text\">",
+      "<input class=\"w-full bg-transparent font-body-md text-body-md text-on-surface placeholder:text-on-surface-variant/60 focus:outline-none\" id=\"birthPlace\" placeholder=\"Trabzon / Akçaabat\" type=\"text\">",
+      "<input class=\"w-full bg-transparent font-body-md text-body-md text-on-surface placeholder:text-on-surface-variant/60 focus:outline-none\" id=\"deathDate\" placeholder=\"2019 veya 14 Kasım 2019\" type=\"text\">",
+      "<input class=\"w-full bg-transparent font-body-md text-body-md text-on-surface placeholder:text-on-surface-variant/60 focus:outline-none\" id=\"restingPlace\" placeholder=\"Zincirlikuyu Mezarlığı, İstanbul\" type=\"text\">",
+      "<input checked=\"\" class=\"accent-primary w-4 h-4 cursor-pointer\" name=\"kinship_nature\" type=\"radio\" value=\"biological\">",
+      "<input class=\"accent-primary w-4 h-4 cursor-pointer\" name=\"kinship_nature\" type=\"radio\" value=\"adoption\">",
+      "<input class=\"accent-primary w-4 h-4 cursor-pointer\" name=\"kinship_nature\" type=\"radio\" value=\"step\">",
+      "<input class=\"accent-primary w-4 h-4 cursor-pointer\" name=\"kinship_nature\" type=\"radio\" value=\"unknown\">",
+      "<input class=\"w-full bg-transparent font-body-md text-body-md text-on-surface placeholder:text-on-surface-variant/60 focus:outline-none\" placeholder=\"Eşin adını girin veya ağaçtan seçin...\" type=\"text\" value=\"Ahmet Çelik\">",
+      "<input checked=\"\" class=\"sr-only\" name=\"marriage_status_1\" type=\"radio\" value=\"active\">",
+      "<input class=\"sr-only\" name=\"marriage_status_1\" type=\"radio\" value=\"ended\">",
+      "<input class=\"sr-only\" name=\"marriage_status_1\" type=\"radio\" value=\"widowed\">",
+      "<input class=\"w-full bg-transparent font-label-sm text-label-sm text-on-surface placeholder:text-on-surface-variant/60 focus:outline-none\" placeholder=\"Örn: 1978\" type=\"text\" value=\"12 Haziran 1978\">",
+      "<input class=\"w-full bg-transparent font-label-sm text-label-sm text-on-surface placeholder:text-on-surface-variant/60 focus:outline-none\" placeholder=\"Geçerliyse yıl veya tarih\" type=\"text\">",
+      "<textarea class=\"w-full bg-transparent font-body-md text-body-md text-on-surface placeholder:text-on-surface-variant/60 focus:outline-none resize-none\" id=\"biography\" placeholder=\"Örneğin: Mahallenin terzisiydi, akşam sofralarında masal anlatmayı çok severdi. Her bayram Trabzon burması açardı...\" rows=\"4\">",
+      "<input checked=\"\" class=\"mt-1 accent-primary w-4 h-4 cursor-pointer\" name=\"visibility\" type=\"radio\" value=\"all\">",
+      "<input class=\"mt-1 accent-primary w-4 h-4 cursor-pointer\" name=\"visibility\" type=\"radio\" value=\"nuclear\">"
+    ],
+    "icons": [
+      "signal_cellular_alt",
+      "wifi",
+      "battery_full",
+      "arrow_back",
+      "share",
+      "edit",
+      "account_tree",
+      "photo_camera",
+      "add",
+      "badge",
+      "female",
+      "male",
+      "favorite",
+      "calendar_today",
+      "location_on",
+      "nature_people",
+      "event_busy",
+      "church",
+      "hub",
+      "person_search",
+      "unfold_more",
+      "check",
+      "alt_route",
+      "favorite_border",
+      "diversity_1",
+      "person",
+      "event",
+      "close",
+      "add_circle",
+      "shield",
+      "history_edu",
+      "lock_person",
+      "person_add",
+      "sync",
+      "check_circle"
+    ],
+    "png": {
+      "width": 390,
+      "height": 3613
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "19_aile_bireyi_d_zenleme",
+    "title": "",
+    "headings": [
+      "19 — Aile Bireyi Düzenleme",
+      "Zehra Anneanne",
+      "Kimlik Bilgileri",
+      "Tarih &amp; Yaşam Seyri",
+      "Ağaçtaki Yeri",
+      "Biyografi &amp; Anlatıcı Notu",
+      "Ağaçtan Çıkar veya Arşivle"
+    ],
+    "buttons": [
+      "arrow_back",
+      "share",
+      "edit",
+      "photo_camera",
+      "cancel",
+      "female Kadın",
+      "male Erkek",
+      "Bağı Değiştir",
+      "mic",
+      "person_remove Bireyi Soy Ağacından Kaldır",
+      "İptal",
+      "check Değişiklikleri Kaydet"
+    ],
+    "fields": [
+      "<input class=\"w-full h-[52px] px-4 pr-12 rounded-lg bg-surface-container-low text-on-surface font-body-md text-body-md focus:outline-none focus:bg-surface-container-lowest focus:shadow-[inset_0_0_0_2px_#4b624d] transition-all\" id=\"fullname\" type=\"text\" value=\"Zehra Yılmaz\"/>",
+      "<input class=\"w-full h-[52px] px-4 rounded-lg bg-surface-container-low text-on-surface font-body-md text-body-md focus:outline-none focus:bg-surface-container-lowest focus:shadow-[inset_0_0_0_2px_#4b624d] transition-all\" id=\"maiden_name\" type=\"text\" value=\"Giritli Zehra Hanım\"/>",
+      "<input checked=\"\" class=\"sr-only peer\" id=\"alive_toggle\" type=\"checkbox\"/>",
+      "<input class=\"w-full h-[52px] pl-4 pr-12 rounded-lg bg-surface-container-low text-on-surface font-body-md text-body-md focus:outline-none focus:bg-surface-container-lowest focus:shadow-[inset_0_0_0_2px_#4b624d] transition-all\" id=\"birthdate\" type=\"text\" value=\"12 Nisan 1940\"/>",
+      "<input class=\"w-full h-[52px] pl-4 pr-12 rounded-lg bg-surface-container-low text-on-surface font-body-md text-body-md focus:outline-none focus:bg-surface-container-lowest focus:shadow-[inset_0_0_0_2px_#4b624d] transition-all\" id=\"birthplace\" type=\"text\" value=\"Hanya, Girit / Ayvalık\"/>",
+      "<textarea class=\"w-full p-4 rounded-lg bg-surface-container-low text-on-surface font-body-md text-body-md focus:outline-none focus:bg-surface-container-lowest focus:shadow-[inset_0_0_0_2px_#4b624d] transition-all resize-none leading-relaxed\" rows=\"4\">"
+    ],
+    "icons": [
+      "signal_cellular_alt",
+      "wifi",
+      "battery_full",
+      "arrow_back",
+      "share",
+      "edit",
+      "photo_camera",
+      "badge",
+      "cancel",
+      "female",
+      "male",
+      "hourglass_top",
+      "calendar_month",
+      "location_on",
+      "account_tree",
+      "nature_people",
+      "auto_stories",
+      "mic",
+      "verified",
+      "warning",
+      "person_remove",
+      "check"
+    ],
+    "png": {
+      "width": 315,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "20_hat_ralar_k_t_phanesi",
+    "title": "",
+    "headings": [
+      "Hatıralar",
+      "1974 Heybeliada Yazlığı Hatıraları",
+      "Dedem Ahmet Bey'in Trabzon'dan İlk Mektubu",
+      "Anneannemin Sandığından Çıkan İpek Şal",
+      "1955 Kemeraltı Dokuma Tezgâhı",
+      "Henüz Bu Filtrede Hatıra Yok"
+    ],
+    "buttons": [
+      "notifications",
+      "cancel",
+      "history_edu 1918 — Günümüz expand_more",
+      "swap_vert Kronolojik",
+      "grid_view",
+      "Tümü 64",
+      "photo_camera Fotoğraflı 42",
+      "mic Sesli Anılar 18",
+      "draw El Yazısı &amp; Mektup 12",
+      "article Belgeler 8",
+      "favorite 14",
+      "chat_bubble 2",
+      "play_arrow",
+      "İncele arrow_forward",
+      "add_circle Yeni Hatıra Ekle",
+      "add Hatıra Yaz"
+    ],
+    "fields": [
+      "<input class=\"w-full h-12 pl-10 pr-10 rounded-xl bg-surface-container-low text-on-surface placeholder-outline font-body-md text-body-md shadow-sm outline-none transition-all focus:bg-surface-container-lowest focus:shadow-md\" id=\"memoriesSearchInput\" placeholder=\"Hatıralarda, kişilerde veya yıllarda arayın...\" type=\"search\"/>"
+    ],
+    "icons": [
+      "notifications",
+      "person",
+      "search",
+      "cancel",
+      "history_edu",
+      "expand_more",
+      "swap_vert",
+      "grid_view",
+      "photo_camera",
+      "mic",
+      "draw",
+      "article",
+      "pin_drop",
+      "photo_library",
+      "favorite",
+      "chat_bubble",
+      "mail",
+      "timer",
+      "play_arrow",
+      "inventory_2",
+      "verified",
+      "arrow_forward",
+      "auto_stories",
+      "add_circle",
+      "add",
+      "cottage",
+      "account_tree",
+      "diversity_1"
+    ],
+    "png": {
+      "width": 339,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "21_b_yorum_ekleme_modal",
+    "title": "",
+    "headings": [
+      "Yorum Ekleme Modali Hatira Detayi",
+      "Dedem Ahmet Bey'in Trabzon'dan İlk Mektubu",
+      "Hatıraya Aile Yorumu Ekle"
+    ],
+    "buttons": [
+      "arrow_back",
+      "share",
+      "edit",
+      "close",
+      "add_photo_alternate + Fotoğraf Ekle",
+      "mic + Sesli Not Kaydet",
+      "attachment",
+      "send Yorumu Paylaş",
+      "Vazgeç"
+    ],
+    "fields": [
+      "<textarea class=\"w-full bg-transparent resize-none border-none outline-none font-body-md text-body-md text-on-surface placeholder:text-outline font-normal\" id=\"comment-textarea\" maxlength=\"1000\" placeholder=\"Bu mektup veya o günlere dair ailenizden duyduğunuz bir ayrıntıyı, çocukluk anınızı paylaşın...\" rows=\"4\">"
+    ],
+    "icons": [
+      "arrow_back",
+      "share",
+      "edit",
+      "person",
+      "close",
+      "mark_email_read",
+      "edit_note",
+      "add_photo_alternate",
+      "mic",
+      "attachment",
+      "verified_user",
+      "send",
+      "progress_activity"
+    ],
+    "png": {
+      "width": 738,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "21_hat_ra_detay",
+    "title": "",
+    "headings": [
+      "Hatıra Detayı",
+      "Dedem Ahmet Bey'in Trabzon'dan İlk Mektubu",
+      "İlişkili Aile Bireyleri",
+      "Babamın Mektubunu Okurken",
+      "Aile Notları &amp; Hatıralar"
+    ],
+    "buttons": [
+      "arrow_back",
+      "more_vert",
+      "",
+      "",
+      "",
+      "play_arrow",
+      "menu_book Kitap Görünümü",
+      "favorite",
+      "favorite",
+      "favorite",
+      "send",
+      "chat Yorum Yap",
+      "add_photo_alternate Belge Ekle"
+    ],
+    "fields": [
+      "<input aria-label=\"Aile notu ekle\" class=\"flex-1 bg-transparent text-on-surface placeholder:text-outline text-body-md focus:outline-none min-h-[48px] px-2\" placeholder=\"Bu hatıraya bir aile notu ekleyin...\" type=\"text\"/>"
+    ],
+    "icons": [
+      "arrow_back",
+      "more_vert",
+      "person",
+      "lock",
+      "history_edu",
+      "photo_library",
+      "calendar_month",
+      "schedule",
+      "location_on",
+      "edit_note",
+      "mic",
+      "play_arrow",
+      "menu_book",
+      "favorite",
+      "send",
+      "chat",
+      "add_photo_alternate"
+    ],
+    "png": {
+      "width": 240,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "22_yeni_hat_ra_olu_tur",
+    "title": "",
+    "headings": [
+      "Yeni Yadigar Ekle",
+      "Yeni Aile Hatırası",
+      "Medya &amp; Yadigârlar"
+    ],
+    "buttons": [
+      "arrow_back",
+      "more_vert",
+      "close Vazgeç",
+      "bookmark_border Taslak Kaydet",
+      "Tam Tarih",
+      "Dönem / Yıl",
+      "explore",
+      "format_bold",
+      "format_italic",
+      "format_quote",
+      "format_list_bulleted",
+      "favorite",
+      "add_photo_alternate Fotoğraf Ekle",
+      "mic Ses Kaydı Bağla",
+      "delete_outline",
+      "play_arrow",
+      "close",
+      "close",
+      "close",
+      "person_add Kişi Ekle",
+      "check Düğün &amp; Bayram",
+      "Çocukluk Günleri",
+      "Göç &amp; Yolculuk",
+      "Askerlik Anısı",
+      "check Bayram Sofrası",
+      "add Yeni Etiket",
+      "archive Hatırayı Kaydet ve Arşive Ekle"
+    ],
+    "fields": [
+      "<input class=\"w-full h-14 px-space-sm bg-transparent text-body-strong font-body-strong text-on-surface placeholder:text-outline focus:outline-none rounded-xl\" id=\"memory-title\" placeholder=\"Örn: 1968 Çanakkale Yaz Tatili\" required=\"\" type=\"text\"/>",
+      "<input class=\"bg-transparent text-body-md font-body-md text-on-surface placeholder:text-outline focus:outline-none w-full\" placeholder=\"Örn: 14 Ağustos 1974 veya Yaz 1974\" type=\"text\" value=\"Ağustos 1974\"/>",
+      "<input class=\"w-full bg-transparent text-body-md font-body-md text-on-surface placeholder:text-outline focus:outline-none\" id=\"memory-location\" placeholder=\"Örn: Ayvalık Sahili, Balıkesir\" type=\"text\" value=\"Cunda Adası, Ayvalık\"/>",
+      "<textarea class=\"w-full p-2 bg-transparent text-body-md font-body-md text-on-surface placeholder:text-outline focus:outline-none resize-none leading-relaxed\" id=\"memory-body\" placeholder=\"Bu anıyı sonraki nesillere nasıl aktarmak istersiniz? O gün hava nasıldı, sofrada kimler vardı, hangi kokular ve tebessümler hatırınızda...\" required=\"\" rows=\"5\">",
+      "<input checked=\"\" class=\"mt-1 accent-primary w-4 h-4 shrink-0\" name=\"privacy-tier\" type=\"radio\"/>",
+      "<input class=\"mt-1 accent-primary w-4 h-4 shrink-0\" name=\"privacy-tier\" type=\"radio\"/>",
+      "<input class=\"mt-1 accent-primary w-4 h-4 shrink-0\" name=\"privacy-tier\" type=\"radio\"/>"
+    ],
+    "icons": [
+      "arrow_back",
+      "more_vert",
+      "person",
+      "close",
+      "bookmark_border",
+      "auto_stories",
+      "calendar_today",
+      "event",
+      "location_on",
+      "explore",
+      "edit_note",
+      "format_bold",
+      "format_italic",
+      "format_quote",
+      "format_list_bulleted",
+      "favorite",
+      "add_photo_alternate",
+      "mic",
+      "delete_outline",
+      "record_voice_over",
+      "play_arrow",
+      "diversity_1",
+      "person_add",
+      "local_offer",
+      "check",
+      "add",
+      "visibility",
+      "archive",
+      "verified_user",
+      "sync",
+      "cloud_upload",
+      "task_alt"
+    ],
+    "png": {
+      "width": 277,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "23_hat_ra_d_zenleme",
+    "title": "",
+    "headings": [
+      "Hatıra Detayı",
+      "Hatırayı Aile Sandığından Kaldır"
+    ],
+    "buttons": [
+      "arrow_back",
+      "more_vert",
+      "İptal",
+      "bookmark_added Kaydet",
+      "edit_location",
+      "format_bold",
+      "format_italic",
+      "format_quote",
+      "format_list_bulleted",
+      "mic",
+      "chat_bubble_outline",
+      "delete",
+      "star",
+      "chat_bubble_outline",
+      "delete",
+      "star",
+      "chat_bubble_outline",
+      "delete",
+      "star",
+      "chat_bubble_outline",
+      "delete",
+      "Tümünü Gör (8)",
+      "add_a_photo Yeni Fotoğraf veya Belge Ekle",
+      "person_add Kişi Ekle",
+      "close",
+      "close",
+      "close",
+      "add Kategori Ekle",
+      "tune",
+      "inventory_2 Hatırayı Arşivle (Yalnızca Bana Görünür)",
+      "delete_forever Hatırayı Kalıcı Olarak Sil"
+    ],
+    "fields": [
+      "<input class=\"w-full bg-transparent px-3 py-2 text-on-surface font-headline-md text-headline-md focus:outline-none\" id=\"mem-title\" placeholder=\"Hatıraya sıcak bir başlık verin...\" type=\"text\" value=\"1974 Heybeliada Yazlığı Hatıraları\"/>",
+      "<textarea class=\"w-full bg-transparent text-on-surface font-body-md text-body-md leading-relaxed focus:outline-none resize-none\" id=\"mem-story\" rows=\"5\">"
+    ],
+    "icons": [
+      "arrow_back",
+      "more_vert",
+      "person",
+      "bookmark_added",
+      "history_edu",
+      "calendar_month",
+      "pin_drop",
+      "edit_location",
+      "location_on",
+      "record_voice_over",
+      "format_bold",
+      "format_italic",
+      "format_quote",
+      "format_list_bulleted",
+      "mic",
+      "chat_bubble_outline",
+      "delete",
+      "star",
+      "collections",
+      "add_a_photo",
+      "person_add",
+      "close",
+      "cottage",
+      "child_care",
+      "add",
+      "groups",
+      "tune",
+      "warning",
+      "inventory_2",
+      "delete_forever"
+    ],
+    "png": {
+      "width": 270,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "24_sesli_hik_yeler_k_t_phanesi",
+    "title": "",
+    "headings": [
+      "Sesli Tarih",
+      "1960'larda Eski Bayram Sabahları",
+      "Arşivdeki Hatıralar",
+      "Ahmet Dede'nin Kendi Sesinden: 1974 İzmir Fuarı",
+      "Anneannemin Sandığından Çıkan İpek Şal",
+      "Bursa İpekçilik Yılları ve Eski Dokumacılık",
+      "Çocukluğumda Heybeliada Faytonları",
+      "Bu Filtrede Ses Bulunamadı",
+      "Ne Soracağınızı Bilmiyor Musunuz?"
+    ],
+    "buttons": [
+      "notifications",
+      "mic",
+      "Tümü 18",
+      "Aile Büyükleri 8",
+      "Masal &amp; Ninni 4",
+      "Göç Anıları 3",
+      "Gençlik &amp; Evlilik 3",
+      "swap_vert En Çok Dinlenenler",
+      "play_arrow",
+      "share",
+      "more_vert",
+      "play_arrow",
+      "more_vert",
+      "play_arrow",
+      "more_vert",
+      "play_arrow",
+      "more_vert",
+      "play_arrow",
+      "add_circle İlk Kaydı Başlat",
+      "arrow_forward",
+      "mic Yeni Ses Kaydet"
+    ],
+    "fields": [
+      "<input aria-label=\"Ses kayıtlarında arama yapın\" class=\"w-full h-12 pl-11 pr-11 bg-surface-container-lowest text-on-surface rounded-xl font-body-md text-body-md placeholder:text-on-surface-variant/70 shadow-sm focus:outline-none focus:ring-0 focus:bg-surface-container-low transition-all\" id=\"search-input\" placeholder=\"Ses kayıtlarında, anlatıcılarda ara...\" type=\"search\"/>"
+    ],
+    "icons": [
+      "notifications",
+      "person",
+      "search",
+      "mic",
+      "swap_vert",
+      "star",
+      "graphic_eq",
+      "play_arrow",
+      "share",
+      "more_vert",
+      "hearing",
+      "mic_off",
+      "add_circle",
+      "psychology_alt",
+      "arrow_forward",
+      "cottage",
+      "account_tree",
+      "photo_library",
+      "diversity_1"
+    ],
+    "png": {
+      "width": 327,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "25_ses_kay_t_st_dyosu_voice_recording_studio",
+    "title": "",
+    "headings": [
+      "Hatıra Detayı"
+    ],
+    "buttons": [
+      "arrow_back",
+      "Vazgeç",
+      "Taslağı Kaydet",
+      "Değiştir expand_more",
+      "Başka Soru cached",
+      "restart_alt",
+      "pause",
+      "check"
+    ],
+    "fields": [
+      "<input class=\"w-full bg-transparent font-body-md text-body-md text-on-surface focus:outline-none truncate\" id=\"story-title\" placeholder=\"Bu hatıraya bir isim verin...\" type=\"text\" value=\"1960'larda Eski Bayram Sabahları ve Baklava Açma Geleneği\"/>",
+      "<input checked=\"\" class=\"sr-only peer\" id=\"transcribe-toggle\" type=\"checkbox\"/>"
+    ],
+    "icons": [
+      "signal_cellular_alt",
+      "wifi",
+      "battery_full",
+      "arrow_back",
+      "person",
+      "expand_more",
+      "verified",
+      "edit_note",
+      "lightbulb",
+      "cached",
+      "elderly",
+      "mic",
+      "restart_alt",
+      "pause",
+      "check",
+      "auto_stories",
+      "lock"
+    ],
+    "png": {
+      "width": 423,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "26_b_gece_dinleme_modu_ses_oynat_c",
+    "title": "",
+    "headings": [
+      "Gece Dinleme Modu Ses Oynatici",
+      "1960’larda Eski Bayram Sabahları",
+      "KÖK Dijital Emanet Protokolü"
+    ],
+    "buttons": [
+      "arrow_back",
+      "share",
+      "edit",
+      "☀️ Gündüz Modu",
+      "skip_previous",
+      "replay_10 Geri",
+      "pause",
+      "forward_10 İleri",
+      "skip_next",
+      "0.75x",
+      "1.0x",
+      "1.2x",
+      "⏱️ Kapanış: 30 dk",
+      "Metin Dökümünü Oku arrow_forward"
+    ],
+    "fields": [],
+    "icons": [
+      "arrow_back",
+      "share",
+      "edit",
+      "person",
+      "bedtime",
+      "timer",
+      "family_history",
+      "record_voice_over",
+      "auto_stories",
+      "skip_previous",
+      "replay_10",
+      "pause",
+      "forward_10",
+      "skip_next",
+      "subject",
+      "arrow_forward",
+      "verified_user"
+    ],
+    "png": {
+      "width": 490,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "26_ses_oynat_c",
+    "title": "",
+    "headings": [
+      "Sesli Hatıra Dinleyici",
+      "1960'larda Eski Bayram Sabahları"
+    ],
+    "buttons": [
+      "arrow_back",
+      "more_vert",
+      "volume_up",
+      "share",
+      "skip_previous",
+      "replay_10 10 sn",
+      "pause",
+      "forward_10 10 sn",
+      "skip_next",
+      "0.75x",
+      "1.0x",
+      "1.2x",
+      "edit_note Not Bırak",
+      "Oku chevron_right"
+    ],
+    "fields": [],
+    "icons": [
+      "arrow_back",
+      "more_vert",
+      "person",
+      "graphic_eq",
+      "volume_up",
+      "share",
+      "park",
+      "auto_stories",
+      "mic",
+      "skip_previous",
+      "replay_10",
+      "pause",
+      "forward_10",
+      "skip_next",
+      "edit_note",
+      "subject",
+      "chevron_right",
+      "verified_user"
+    ],
+    "png": {
+      "width": 615,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "27_ses_kayd_detay",
+    "title": "",
+    "headings": [
+      "Hatıra Detayı",
+      "1960'larda Eski Bayram Sabahları",
+      "Konuşma Metni &amp; Deşifre",
+      "diversity_3 İlgili Bireyler &amp; Konular",
+      "Rıza, Telif &amp; Aile Güvencesi"
+    ],
+    "buttons": [
+      "arrow_back",
+      "more_vert",
+      "share",
+      "edit",
+      "1.0x",
+      "replay_10",
+      "pause",
+      "forward_10",
+      "content_copy Metni Kopyala &amp; Arşive Not Ekle",
+      "edit_note Ses Kaydını ve Bilgileri Düzenle",
+      "archive Kaydı Sandığa Kaldır / Gizle"
+    ],
+    "fields": [],
+    "icons": [
+      "arrow_back",
+      "more_vert",
+      "person",
+      "mic",
+      "share",
+      "edit",
+      "verified_user",
+      "record_voice_over",
+      "interpreter_mode",
+      "calendar_today",
+      "timer",
+      "pin_drop",
+      "replay_10",
+      "pause",
+      "forward_10",
+      "format_quote",
+      "auto_awesome",
+      "play_circle",
+      "volume_up",
+      "content_copy",
+      "diversity_3",
+      "shield",
+      "how_to_reg",
+      "lock",
+      "edit_note",
+      "archive",
+      "check"
+    ],
+    "png": {
+      "width": 239,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "28_foto_raf_alb_mleri",
+    "title": "",
+    "headings": [
+      "Son Eklenen Kareler",
+      "Ahmet Dede'nin Dükkânı",
+      "Heybeliada İskelesi",
+      "Zehra Anneanne Portresi",
+      "Aile Albümleri",
+      "1974 Heybeliada Yazlığı",
+      "Kemeraltı Dokuma Tezgâhı &amp; Dükkân",
+      "Zehra Anneanne'nin Sandığı &amp; Çeyiz",
+      "Selim &amp; Leyla Evlilik Hatıraları",
+      "Ayvalık Zeytin Hasatları",
+      "Tarihsel Tapu ve Askerlik Vesikaları",
+      "KÖK Nesil Güvencesi"
+    ],
+    "buttons": [
+      "notifications",
+      "mic",
+      "Tümü 18",
+      "Dönemler (1940-1980)",
+      "Aile Büyükleri",
+      "Yazlık Hatıraları",
+      "Belgeler &amp; Vesikalar",
+      "grid_view",
+      "En Yeniler expand_more",
+      "add_photo_alternate Yeni Albüm Oluştur",
+      "Tümünü Gör"
+    ],
+    "fields": [
+      "<input class=\"w-full bg-transparent border-0 outline-none text-on-surface font-body-md text-body-md placeholder:text-outline\" placeholder=\"Albümlerde veya fotoğraflarda ara...\" type=\"search\"/>"
+    ],
+    "icons": [
+      "nature_people",
+      "notifications",
+      "person",
+      "search",
+      "mic",
+      "grid_view",
+      "expand_more",
+      "add_photo_alternate",
+      "photo_camera",
+      "lock",
+      "verified",
+      "description",
+      "shield",
+      "cottage",
+      "account_tree",
+      "photo_library",
+      "diversity_1"
+    ],
+    "png": {
+      "width": 361,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "29_alb_m_detay",
+    "title": "",
+    "headings": [
+      "Album Detayi",
+      "1974 Heybeliada Yazlığı Hatıraları",
+      "Verandada Aile Kahvaltısı",
+      "Ada Vapur İskelesi",
+      "Çam Limanı Patikası",
+      "Semaver Başında Sevim Hala",
+      "İskelede Balık Avı",
+      "Köşkün Arka Bahçesi"
+    ],
+    "buttons": [
+      "arrow_back",
+      "share",
+      "edit",
+      "add_photo_alternate Fotoğraf Ekle",
+      "checklist Çoklu Seç",
+      "tune",
+      "sort Kronolojik (Eskiden Yeniye) arrow_drop_down",
+      "Tümünü Seç",
+      "close",
+      "download İndir",
+      "drive_file_move Taşı",
+      "delete",
+      "share Soy Ağacıyla Paylaş",
+      "menu_book Anı Kitabı Oluştur"
+    ],
+    "fields": [],
+    "icons": [
+      "arrow_back",
+      "share",
+      "edit",
+      "person",
+      "shield",
+      "calendar_month",
+      "location_on",
+      "photo_library",
+      "mic",
+      "add_photo_alternate",
+      "checklist",
+      "tune",
+      "sort",
+      "arrow_drop_down",
+      "collections_bookmark",
+      "close",
+      "star",
+      "radio_button_unchecked",
+      "download",
+      "drive_file_move",
+      "delete",
+      "verified",
+      "menu_book"
+    ],
+    "png": {
+      "width": 375,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "30_foto_raf_detay",
+    "title": "",
+    "headings": [
+      "Fotograf Detayi",
+      "Verandada Karpuz ve Çay Saati",
+      "Karedeki Aile Fertleri"
+    ],
+    "buttons": [
+      "arrow_back",
+      "share",
+      "edit",
+      "download",
+      "chevron_left",
+      "chevron_right",
+      "zoom_out",
+      "zoom_in",
+      "fullscreen",
+      "play_arrow",
+      "edit_note Fotoğraf Notunu Düzenle",
+      "inventory_2 Kişisel Sandığıma Kopyala"
+    ],
+    "fields": [],
+    "icons": [
+      "arrow_back",
+      "share",
+      "edit",
+      "person",
+      "archive",
+      "download",
+      "chevron_left",
+      "chevron_right",
+      "zoom_out",
+      "zoom_in",
+      "fullscreen",
+      "verified",
+      "calendar_today",
+      "location_on",
+      "photo_camera",
+      "group",
+      "arrow_forward",
+      "account_tree",
+      "face",
+      "menu_book",
+      "graphic_eq",
+      "play_arrow",
+      "lock_person",
+      "edit_note",
+      "inventory_2",
+      "check_circle"
+    ],
+    "png": {
+      "width": 321,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "31_foto_raf_y_kleme",
+    "title": "",
+    "headings": [
+      "Fotograf Yukleme",
+      "Seçilen Hatıralar (3)",
+      "Arşiv Gizlilik Derecesi"
+    ],
+    "buttons": [
+      "arrow_back",
+      "share",
+      "edit",
+      "Taslak Kaydet",
+      "photo_library Galeriden Seç Albüm ve Belgeler",
+      "document_scanner Kamera / Tara Asitsiz Tarama Modu",
+      "close",
+      "close",
+      "close",
+      "add_photo_alternate Fotoğraf Ekle",
+      "refresh Yeniden Dene",
+      "Tam Tarih",
+      "Yaklaşık Yıl",
+      "close",
+      "close",
+      "person_add + Kişi Ekle",
+      "archive Fotoğrafları Arşive Kaydet ve Yükle"
+    ],
+    "fields": [
+      "<select class=\"w-full min-h-[52px] px-4 pr-10 rounded-xl bg-surface-container-lowest text-on-surface font-body-md text-body-md shadow-sm appearance-none focus:outline-none focus:bg-surface-container\" id=\"album-select\">",
+      "<input class=\"w-full min-h-[52px] px-4 rounded-xl bg-surface-container-lowest text-on-surface font-body-md text-body-md shadow-sm focus:outline-none focus:bg-surface-container\" id=\"photo-title\" placeholder=\"Hatıraya bir başlık verin...\" type=\"text\" value=\"İskelede Vapur Beklerken\"/>",
+      "<input class=\"w-full min-h-[52px] px-4 rounded-xl bg-surface-container-lowest text-on-surface font-body-md text-body-md shadow-sm focus:outline-none focus:bg-surface-container\" id=\"photo-date\" type=\"text\" value=\"Ağustos 1974\"/>",
+      "<input class=\"w-full min-h-[52px] pl-4 pr-10 rounded-xl bg-surface-container-lowest text-on-surface font-body-md text-body-md shadow-sm focus:outline-none focus:bg-surface-container\" id=\"photo-location\" type=\"text\" value=\"Heybeliada İskelesi, Adalar, İstanbul\"/>",
+      "<input checked=\"\" class=\"w-5 h-5 text-primary accent-primary cursor-pointer\" name=\"privacy_setting\" type=\"radio\"/>",
+      "<input class=\"w-5 h-5 text-primary accent-primary cursor-pointer\" name=\"privacy_setting\" type=\"radio\"/>"
+    ],
+    "icons": [
+      "arrow_back",
+      "share",
+      "edit",
+      "person",
+      "photo_library",
+      "document_scanner",
+      "star",
+      "close",
+      "verified",
+      "check_circle",
+      "add_photo_alternate",
+      "cloud_upload",
+      "auto_fix_high",
+      "error",
+      "refresh",
+      "photo_album",
+      "unfold_more",
+      "edit_note",
+      "calendar_today",
+      "location_on",
+      "map",
+      "person_pin",
+      "person_add",
+      "lock",
+      "archive",
+      "shield"
+    ],
+    "png": {
+      "width": 346,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "32_aile_zaman_izelgesi",
+    "title": "",
+    "headings": [
+      "Ahmet Çelik Selanik'ten İzmir'e Göç Etti",
+      "Ahmet &amp; Fatma Çelik Evliliği",
+      "Kemeraltı Kumaş ve Mensucat Dükkânı Açıldı",
+      "Heybeliada Köşkünde Üç Kuşak İlk Yaz Tatili",
+      "Selim Çelik Dünyaya Geldi"
+    ],
+    "buttons": [
+      "notifications",
+      "schedule 1974 expand_more",
+      "add_circle + Yeni Zaman Çizelgesi Olayı Ekle",
+      "all_inclusive Tüm Yıllar (1918–2024)",
+      "1918–1940: Göç &amp; Kuruluş",
+      "1940–1970: Kök Büyükleri",
+      "1970–2000: Yeni Nesiller",
+      "Görüntüle chevron_right",
+      "play_arrow",
+      "Detay arrow_forward"
+    ],
+    "fields": [],
+    "icons": [
+      "nature_people",
+      "notifications",
+      "person",
+      "schedule",
+      "expand_more",
+      "add_circle",
+      "all_inclusive",
+      "sailing",
+      "pin_drop",
+      "verified",
+      "favorite",
+      "home_pin",
+      "storefront",
+      "receipt_long",
+      "chevron_right",
+      "groups",
+      "play_arrow",
+      "graphic_eq",
+      "child_care",
+      "bookmark_added",
+      "spa",
+      "auto_stories",
+      "arrow_forward",
+      "cottage",
+      "account_tree",
+      "photo_library",
+      "mic",
+      "diversity_1"
+    ],
+    "png": {
+      "width": 189,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "33_yeni_zaman_izelgesi_olay",
+    "title": "",
+    "headings": [
+      "Yeni Zaman Cizelgesi Olayi",
+      "Kuşaklararası Hafıza",
+      "perm_media Bağlanan Medya &amp; Kayıtlar"
+    ],
+    "buttons": [
+      "arrow_back",
+      "share",
+      "edit",
+      "bookmark Taslak Kaydet",
+      "flight_takeoff Tarihî Göç",
+      "favorite Evlilik &amp; Nişan",
+      "child_friendly Doğum",
+      "shield Askerlik / Millî Hizmet",
+      "storefront Zanaat &amp; Ticaret",
+      "school Eğitim",
+      "groups Büyük Aile Buluşması",
+      "Tam Tarih",
+      "Yalnızca Yıl",
+      "Yaklaşık Dönem",
+      "edit_calendar",
+      "explore",
+      "B",
+      "I",
+      "format_quote",
+      "format_list_bulleted",
+      "mic",
+      "add_photo_alternate + Vesika Ekle",
+      "mic_external_on + Ses İlişkilendir",
+      "delete_outline",
+      "close",
+      "close",
+      "close",
+      "person_add + Aile Bireyi Ekle",
+      "auto_stories Olayı Zaman Çizelgesine Kaydet",
+      "Vazgeç ve Taslağı Kapat"
+    ],
+    "fields": [
+      "<input class=\"w-full h-14 px-4 bg-transparent text-on-surface font-body-strong text-body-strong focus:outline-none placeholder:text-outline\" id=\"event-title\" name=\"event-title\" placeholder=\"Örn: 1948 Kemeraltı Mensucat Dükkânı Açılışı\" required=\"\" type=\"text\" value=\"1948 Kemeraltı Mensucat Dükkânı Açılışı\"/>",
+      "<input aria-label=\"Seçili Tam Tarih\" class=\"bg-transparent font-title-lg text-title-lg text-on-surface font-bold focus:outline-none\" type=\"text\" value=\"14 Mayıs 1948\"/>",
+      "<input class=\"bg-transparent font-title-lg text-title-lg text-on-surface font-bold focus:outline-none w-32\" placeholder=\"Örn: 1948\" type=\"number\" value=\"1948\"/>",
+      "<input class=\"w-full h-10 bg-transparent text-on-surface font-body-md text-body-md focus:outline-none placeholder:text-outline\" id=\"event-location\" placeholder=\"Şehir, semt veya tarihi mekan adı...\" type=\"text\" value=\"Kemeraltı Çarşısı, Konak / İzmir\"/>",
+      "<textarea class=\"w-full p-4 bg-transparent text-on-surface font-headline-md text-headline-md italic leading-relaxed focus:outline-none placeholder:text-outline placeholder:font-body-md placeholder:not-italic\" id=\"story-editor\" placeholder=\"Bu dönüm noktasının ailemiz için önemi neydi? O günlere dair anlatılan sözlü hatıralar nelerdir?..\" rows=\"5\">",
+      "<input checked=\"\" class=\"mt-1 w-5 h-5 text-primary accent-primary cursor-pointer shrink-0\" name=\"privacy-scope\" type=\"radio\" value=\"all-family\"/>",
+      "<input class=\"mt-1 w-5 h-5 text-primary accent-primary cursor-pointer shrink-0\" name=\"privacy-scope\" type=\"radio\" value=\"nuclear-family\"/>"
+    ],
+    "icons": [
+      "arrow_back",
+      "share",
+      "edit",
+      "person",
+      "bookmark",
+      "history_edu",
+      "flight_takeoff",
+      "favorite",
+      "child_friendly",
+      "shield",
+      "storefront",
+      "school",
+      "groups",
+      "calendar_month",
+      "edit_calendar",
+      "event",
+      "location_on",
+      "explore",
+      "pin_drop",
+      "record_voice_over",
+      "format_quote",
+      "format_list_bulleted",
+      "mic",
+      "perm_media",
+      "add_photo_alternate",
+      "mic_external_on",
+      "photo_camera",
+      "delete_outline",
+      "play_arrow",
+      "close",
+      "person_add",
+      "auto_stories",
+      "done"
+    ],
+    "png": {
+      "width": 272,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "34_zaman_izelgesi_olay_detay",
+    "title": "",
+    "headings": [
+      "Zaman Cizelgesi Olay Detayi",
+      "1948 Kemeraltı Kumaş ve Mensucat Dükkânı Açıldı",
+      "Tarihî Vesika ve Fotoğraflar",
+      "Olayın Hikâyesi &amp; Anlatısı",
+      "İlişkili Aile Bireyleri",
+      "Sözlü Tarih &amp; Ses Kaydı",
+      "Ahmet Dede'nin Dükkân Günleri Anlatısı",
+      "Aile Notları ve Yorumları"
+    ],
+    "buttons": [
+      "arrow_back",
+      "share",
+      "edit",
+      "fullscreen",
+      "account_tree Soyağacında Bağı Gör arrow_forward",
+      "1.0x",
+      "replay_10",
+      "play_arrow",
+      "forward_30",
+      "favorite 4",
+      "favorite 2",
+      "add_a_photo Bu Olaya Fotoğraf veya Not Ekle"
+    ],
+    "fields": [],
+    "icons": [
+      "arrow_back",
+      "share",
+      "edit",
+      "person",
+      "storefront",
+      "auto_stories",
+      "location_on",
+      "verified",
+      "photo_library",
+      "workspace_premium",
+      "fullscreen",
+      "history_edu",
+      "schedule",
+      "diversity_3",
+      "chevron_right",
+      "account_tree",
+      "arrow_forward",
+      "mic",
+      "replay_10",
+      "play_arrow",
+      "forward_30",
+      "chat",
+      "favorite",
+      "shield",
+      "add_a_photo"
+    ],
+    "png": {
+      "width": 199,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "35_aile_yeleri_ve_davetler",
+    "title": "",
+    "headings": [
+      "Ailem",
+      "Çelik &amp; Yılmaz Sandığı",
+      "Selim Çelik",
+      "Burcu Çelik",
+      "Emine Koç",
+      "Selçuk Yılmaz",
+      "Leyla Çelik",
+      "Kerem Yılmaz",
+      "Merve Çelik",
+      "Ahmet Çelik Jr."
+    ],
+    "buttons": [
+      "search",
+      "person_add + Yeni Aile Üyesi Davet Et",
+      "Aktif Meclis Üyeleri 7",
+      "Bekleyen Davetler 2",
+      "cancel",
+      "chevron_right",
+      "chevron_right",
+      "chevron_right",
+      "chevron_right",
+      "chevron_right",
+      "chevron_right",
+      "İptal Et",
+      "Yeniden Gönder",
+      "Kaldır",
+      "content_copy Kopyala",
+      "Filtreyi Temizle"
+    ],
+    "fields": [
+      "<input class=\"w-full h-12 pl-11 pr-11 bg-surface-container-lowest text-on-surface placeholder:text-outline font-body-md text-body-md rounded-xl shadow-sm focus:outline-none focus:bg-surface-container-low transition-colors\" id=\"member-search\" oninput=\"filterMembers(this.value)\" placeholder=\"İsim, kol veya e-posta ile arayın...\" type=\"text\"/>"
+    ],
+    "icons": [
+      "search",
+      "person",
+      "security",
+      "nature_people",
+      "phonelink_ring",
+      "verified_user",
+      "person_add",
+      "cancel",
+      "star",
+      "auto_stories",
+      "mic",
+      "chevron_right",
+      "photo_camera",
+      "account_tree",
+      "outgoing_mail",
+      "schedule",
+      "link",
+      "hourglass_top",
+      "content_copy",
+      "search_off",
+      "family_restroom",
+      "cottage",
+      "photo_library",
+      "groups"
+    ],
+    "png": {
+      "width": 362,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "36_aile_yesi_davet_etme",
+    "title": "",
+    "headings": [
+      "Davet Etme",
+      "Yeni Aile Bireyi Davet Et",
+      "Davet Edilecek Kişinin Bilgileri",
+      "Davet Yöntemi",
+      "Aile İçi Yetkisi",
+      "Çelik &amp; Yılmaz Soy Ağacı"
+    ],
+    "buttons": [
+      "arrow_back",
+      "notifications",
+      "more_vert",
+      "mail E-posta ile",
+      "share Bağlantı &amp; WhatsApp",
+      "outgoing_mail Davetiyeyi Gönder",
+      "content_copy Davet Bağlantısını Kopyala"
+    ],
+    "fields": [
+      "<input class=\"w-full bg-surface-container-low text-on-surface font-body-md text-body-md rounded-lg pl-11 pr-4 py-3 min-h-[48px] focus:bg-surface-container-lowest focus:outline-none transition-all\" id=\"fullName\" name=\"fullName\" oninput=\"updatePreview()\" placeholder=\"Örn: Merve Çelik\" type=\"text\" value=\"Merve Çelik\"/>",
+      "<select class=\"w-full bg-surface-container-low text-on-surface font-body-md text-body-md rounded-lg pl-11 pr-10 py-3 min-h-[48px] appearance-none focus:bg-surface-container-lowest focus:outline-none transition-all cursor-pointer\" id=\"familyRelation\" name=\"familyRelation\" onchange=\"updatePreview()\">",
+      "<input class=\"w-full bg-surface-container-low text-on-surface font-body-md text-body-md rounded-lg pl-11 pr-4 py-3 min-h-[48px] focus:bg-surface-container-lowest focus:outline-none transition-all\" id=\"emailInput\" placeholder=\"merve.celik@ornek.com\" type=\"email\" value=\"merve.celik@ornek.com\"/>",
+      "<input checked=\"\" class=\"mt-1 w-5 h-5 accent-secondary cursor-pointer shrink-0\" name=\"role\" onchange=\"updateRoleBadge('Katkıda Bulunan')\" type=\"radio\" value=\"contributor\"/>",
+      "<input class=\"mt-1 w-5 h-5 accent-secondary cursor-pointer shrink-0\" name=\"role\" onchange=\"updateRoleBadge('Meclis Üyesi')\" type=\"radio\" value=\"council_member\"/>",
+      "<input class=\"mt-1 w-5 h-5 accent-secondary cursor-pointer shrink-0\" name=\"role\" onchange=\"updateRoleBadge('Salt Okunur')\" type=\"radio\" value=\"viewer\"/>"
+    ],
+    "icons": [
+      "arrow_back",
+      "notifications",
+      "more_vert",
+      "person",
+      "verified_user",
+      "person_add",
+      "badge",
+      "account_tree",
+      "arrow_drop_down",
+      "info",
+      "send",
+      "mail",
+      "share",
+      "alternate_email",
+      "link",
+      "admin_panel_settings",
+      "timer",
+      "visibility",
+      "lock",
+      "key",
+      "outgoing_mail",
+      "content_copy",
+      "check_circle"
+    ],
+    "png": {
+      "width": 255,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "37_roller_ve_i_zinler",
+    "title": "",
+    "headings": [
+      "Roller Ve İzinler",
+      "Emanet Mahremiyeti",
+      "Meclis Mertebeleri",
+      "Özel İzin Matrisi"
+    ],
+    "buttons": [
+      "arrow_back",
+      "notifications",
+      "more_vert",
+      "manage_accounts",
+      "manage_accounts",
+      "more_horiz",
+      "upgrade",
+      "save Rol Değişikliklerini Kaydet",
+      "pending_actions Yetki Taleplerini İncele (0)"
+    ],
+    "fields": [],
+    "icons": [
+      "arrow_back",
+      "notifications",
+      "more_vert",
+      "person",
+      "shield_with_heart",
+      "history_edu",
+      "verified_user",
+      "group",
+      "manage_accounts",
+      "more_horiz",
+      "visibility",
+      "face_6",
+      "upgrade",
+      "table_chart",
+      "lock_person",
+      "mic_double",
+      "account_tree",
+      "save",
+      "pending_actions",
+      "sync",
+      "check_circle"
+    ],
+    "png": {
+      "width": 299,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "38_genel_arama",
+    "title": "",
+    "headings": [
+      "Genel Arama",
+      "Son Aramalarınız",
+      "Önerilen Başlıklar ve Temalar",
+      "Kişiye Göre Keşfet",
+      "Dönemlere Göre Hatıralar",
+      "Mübadele ve Kuruluş",
+      "Yazlık Günleri",
+      "Konulara Göre Etiketler"
+    ],
+    "buttons": [
+      "arrow_back",
+      "notifications",
+      "more_vert",
+      "close",
+      "mic",
+      "Tümü",
+      "group Aile Bireyleri",
+      "history_edu Hatıralar",
+      "photo_library Fotoğraflar",
+      "graphic_eq Ses Kayıtları",
+      "timeline Zaman Tüneli",
+      "Geçmişi Temizle",
+      "close",
+      "close",
+      "close",
+      "close",
+      "Ahmet Çelik Büyükbaba · 42 Belge, 3 Ses Kaydı chevron_right",
+      "Fatma Çelik Büyükanne · 28 Hatıra, 12 El Yazısı chevron_right",
+      "Hasan Çelik Baba · 19 Fotoğraf, 5 Hatırat chevron_right",
+      "# EsnafYaşamı 14 kayıt",
+      "# GiritGöçü 9 kayıt",
+      "# BayramSofraları 27 kayıt",
+      "# NohutMayalıEkmek 4 tarif &amp; ses"
+    ],
+    "fields": [
+      "<input aria-label=\"Arşivde arama yapın\" class=\"w-full bg-transparent font-body-md text-on-surface placeholder:text-on-surface-variant focus:outline-none tracking-normal truncate\" id=\"archive-search\" placeholder=\"Kişi, yer, hatıra, ses veya yıl arayın...\" type=\"text\"/>"
+    ],
+    "icons": [
+      "arrow_back",
+      "notifications",
+      "more_vert",
+      "person",
+      "search",
+      "close",
+      "mic",
+      "group",
+      "history_edu",
+      "photo_library",
+      "graphic_eq",
+      "timeline",
+      "history",
+      "image",
+      "collections_bookmark",
+      "mark_as_unread",
+      "person_search",
+      "chevron_right",
+      "calendar_month",
+      "east",
+      "label",
+      "shield"
+    ],
+    "png": {
+      "width": 354,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "39_filtrelenmi_arama_sonu_lar",
+    "title": "",
+    "headings": [
+      "Filtrelenmiş Sonuçlar",
+      "1948 Kemeraltı Kumaş ve Mensucat Dükkânı Açıldı",
+      "Ahmet Dede'nin Dükkânı ve Çırakları",
+      "Ahmet Dede'nin Dükkân Günleri Anlatısı",
+      "İzmir Belediyesi Esnaf Ruhsatı ve Dükkân Beratı"
+    ],
+    "buttons": [
+      "arrow_back",
+      "notifications",
+      "more_vert",
+      "cancel",
+      "swap_vert İlişkiye Göre En Uygun arrow_drop_down",
+      "İlişkiye Göre En Uygun check",
+      "Kronolojik (Eskiden Yeniye)",
+      "Kronolojik (Yeniden Eskiye)",
+      "Tümü 8",
+      "Fotoğraf 3",
+      "Ses Kaydı 2",
+      "Zaman Olayı 2",
+      "Belge 1",
+      "1940–1960 (6)",
+      "1960–1980 (2)",
+      "Ahmet Çelik (5)",
+      "Mehmet Çelik (2)",
+      "Olayı İncele arrow_forward",
+      "Yüksek Çözünürlükte Gör zoom_in",
+      "play_arrow",
+      "Vesikayı Oku menu_book",
+      "filter_alt_off Tüm Filtreleri Sıfırla"
+    ],
+    "fields": [
+      "<input aria-label=\"Arşivde arama yap\" class=\"w-full bg-transparent font-body-strong text-body-strong text-on-surface focus:outline-none placeholder:text-outline\" id=\"search-input\" placeholder=\"Kişi, yer veya hatıra ara...\" type=\"text\" value=\"Kemeraltı\"/>"
+    ],
+    "icons": [
+      "arrow_back",
+      "notifications",
+      "more_vert",
+      "person",
+      "search",
+      "cancel",
+      "swap_vert",
+      "arrow_drop_down",
+      "check",
+      "timeline",
+      "location_on",
+      "arrow_forward",
+      "photo_camera",
+      "pin_drop",
+      "zoom_in",
+      "mic",
+      "play_arrow",
+      "description",
+      "verified_user",
+      "menu_book",
+      "lock",
+      "all_inclusive",
+      "filter_alt_off"
+    ],
+    "png": {
+      "width": 279,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "40_profilim",
+    "title": "",
+    "headings": [
+      "Profilim",
+      "Selim Çelik",
+      "Torun Kuşağı • 3. Nesil"
+    ],
+    "buttons": [
+      "search",
+      "edit_note Profili Düzenle",
+      "nature_people Ağaçtaki Düğüme Git arrow_forward",
+      "lock Kişisel Sandığım 4 Taslak Yalnızca bana açık özel kayıtlar ve notlar chevron_right",
+      "diversity_3 Aile Alanı Üyelikleri Çelik &amp; Yılmaz Arşivi (Yönetici Yetkisi) chevron_right",
+      "security Gizlilik ve Güvenlik Ayarları Hesap şifresi, oturumlar ve erişim izinleri chevron_right",
+      "download_for_offline Aile Verilerini Dışa Aktar Dijital kalıcı yedekleme (PDF &amp; ZIP Arşivi) chevron_right",
+      "settings Uygulama Ayarları Dil, yazı boyutu, aile hatırlatıcıları chevron_right",
+      "logout Oturumu Kapat"
+    ],
+    "fields": [],
+    "icons": [
+      "search",
+      "person",
+      "verified",
+      "shield_person",
+      "calendar_today",
+      "edit_note",
+      "auto_stories",
+      "photo_library",
+      "mic",
+      "account_tree",
+      "nature_people",
+      "arrow_forward",
+      "lock",
+      "chevron_right",
+      "diversity_3",
+      "security",
+      "download_for_offline",
+      "settings",
+      "logout",
+      "cottage",
+      "groups"
+    ],
+    "png": {
+      "width": 426,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "41_profil_d_zenleme",
+    "title": "",
+    "headings": [
+      "Profil Düzenleme"
+    ],
+    "buttons": [
+      "arrow_back",
+      "notifications",
+      "more_vert",
+      "photo_camera",
+      "Fotoğrafı Değiştir / Yeni Çek edit",
+      "check_circle Değişiklikleri Kaydet",
+      "close Vazgeç"
+    ],
+    "fields": [
+      "<input class=\"w-full h-12 pl-11 pr-4 bg-transparent font-body-strong text-body-strong text-on-surface rounded-lg focus:outline-none focus:bg-surface-container-low transition-colors\" id=\"full-name\" placeholder=\"Tam adınızı giriniz\" required=\"\" type=\"text\" value=\"Selim Çelik\"/>",
+      "<input class=\"w-full h-12 pl-11 pr-4 bg-transparent font-body-md text-body-md text-on-surface rounded-lg focus:outline-none focus:bg-surface-container-low transition-colors\" id=\"birth-date\" placeholder=\"Örn: 14 Eylül 1968\" type=\"text\" value=\"14 Eylül 1968\"/>",
+      "<input class=\"w-full h-12 pl-11 pr-4 bg-transparent font-body-md text-body-md text-on-surface rounded-lg focus:outline-none focus:bg-surface-container-low transition-colors\" id=\"living-city\" placeholder=\"İl, İlçe veya Ülke\" type=\"text\" value=\"İzmir, Karşıyaka\"/>",
+      "<input class=\"w-full h-12 pl-11 pr-4 bg-transparent font-body-md text-body-md text-on-surface rounded-lg focus:outline-none focus:bg-surface-container-low transition-colors\" id=\"occupation\" placeholder=\"Mesleğiniz veya aile kütüğündeki rolünüz\" type=\"text\" value=\"Mimar &amp; Aile Tarihi Meraklısı\"/>",
+      "<textarea class=\"w-full p-2 bg-transparent font-body-md text-body-md text-on-surface rounded-lg focus:outline-none focus:bg-surface-container-low transition-colors resize-none\" id=\"bio\" maxlength=\"500\" placeholder=\"Aile meclisine ve gelecek nesillere aktarmak istediğiniz kısa özgeçmişinizi yazın...\" rows=\"4\">",
+      "<input checked=\"\" class=\"mt-1 h-5 w-5 accent-[#934a32] cursor-pointer\" name=\"visibility\" type=\"radio\" value=\"all\"/>",
+      "<input class=\"mt-1 h-5 w-5 accent-[#934a32] cursor-pointer\" name=\"visibility\" type=\"radio\" value=\"nuclear\"/>"
+    ],
+    "icons": [
+      "arrow_back",
+      "notifications",
+      "more_vert",
+      "person",
+      "photo_camera",
+      "edit",
+      "calendar_today",
+      "history_edu",
+      "location_on",
+      "architecture",
+      "visibility",
+      "sync_saved_locally",
+      "check_circle",
+      "close",
+      "progress_activity",
+      "task_alt"
+    ],
+    "png": {
+      "width": 394,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "42_ayarlar",
+    "title": "",
+    "headings": [
+      "Ayarlar",
+      "Selim Çelik",
+      "Hesap &amp; Profil",
+      "Bildirimler",
+      "Görünüm &amp; Okunabilirlik",
+      "Gizlilik &amp; Güvenlik",
+      "Arşiv &amp; Depolama",
+      "Destek &amp; Bilgi"
+    ],
+    "buttons": [
+      "arrow_back",
+      "notifications",
+      "more_vert",
+      "edit",
+      "badge Profil Bilgileri Selim Çelik, selim.celik@kokarsiv.com chevron_right",
+      "diversity_3 Aile Alanı Tercihleri Varsayılan alan: Çelik &amp; Yılmaz Sandığı chevron_right",
+      "",
+      "",
+      "format_size Yazı Boyutu &amp; Tipografi Standart / Büyük Metin / Çok Büyük Metin (Seçili: Standart 16sp) chevron_right",
+      "",
+      "palette Tema Görünümü Sıcak Fildişi - Varsayılan KÖK Kâğıt Teması chevron_right",
+      "fingerprint Erişim ve Giriş Güvenliği İki adımlı doğrulama, parmak izi / biyometrik kilit chevron_right",
+      "shield_person Veri Paylaşım ve Meclis İzinleri Akranlar, torunlar ve mirasçı yetki sınırları chevron_right",
+      "cloud_download Aile Verilerini Dışa Aktarma (Yedek) Kalıcı Bulut ve yazdırılabilir PDF/ZIP soyağacı arşivi chevron_right",
+      "pie_chart Önbellek &amp; Medya Alanı Kullanılan: 1.4 GB / 15 GB chevron_right",
+      "menu_book KÖK Yardım ve Aile Tarihi Rehberi Sık sorulan sorular, sesli kullanım kılavuzu chevron_right",
+      "info Uygulama Hakkında &amp; Kullanım Şartları Sürüm 2.4.0 (Yapı 4128) • Gizlilik Sözleşmesi chevron_right",
+      "logout Oturumu Kapat"
+    ],
+    "fields": [],
+    "icons": [
+      "arrow_back",
+      "notifications",
+      "more_vert",
+      "person",
+      "verified",
+      "edit",
+      "manage_accounts",
+      "badge",
+      "chevron_right",
+      "diversity_3",
+      "notifications_active",
+      "forum",
+      "calendar_month",
+      "visibility",
+      "elderly",
+      "format_size",
+      "contrast",
+      "palette",
+      "security",
+      "fingerprint",
+      "shield_person",
+      "inventory_2",
+      "cloud_download",
+      "pie_chart",
+      "help_center",
+      "menu_book",
+      "info",
+      "logout"
+    ],
+    "png": {
+      "width": 357,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "43_gizlilik_ve_g_venlik",
+    "title": "",
+    "headings": [
+      "Gizlilik Ve Güvenlik",
+      "Hesap Güvenliği",
+      "Aktif Oturumlar &amp; Cihazlar",
+      "Arşiv &amp; Medya Görünürlüğü",
+      "Veri İşleme &amp; Rıza İlkeleri",
+      "Hassas Eylemler"
+    ],
+    "buttons": [
+      "arrow_back",
+      "notifications",
+      "more_vert",
+      "password Şifre Değiştir Son güncelleme: 3 ay önce Güncelle chevron_right",
+      "Yönet",
+      "Oturumu Kapat",
+      "logout Tüm Cihazlardaki Oturumları Sonlandır",
+      "delete_forever Hesabımı ve Kişisel Katkılarımı Silme Talebi"
+    ],
+    "fields": [
+      "<input checked=\"\" class=\"sr-only peer\" id=\"toggle-bio\" type=\"checkbox\"/>",
+      "<select class=\"w-full appearance-none bg-surface-container-low text-on-surface font-body-md text-body-md rounded-lg py-3 px-3.5 pr-10 focus:outline-none focus:bg-surface-container transition-colors\" id=\"photo-visibility-select\">",
+      "<input checked=\"\" class=\"sr-only peer\" type=\"checkbox\"/>"
+    ],
+    "icons": [
+      "arrow_back",
+      "notifications",
+      "more_vert",
+      "person",
+      "shield_with_heart",
+      "lock",
+      "password",
+      "chevron_right",
+      "fingerprint",
+      "verified_user",
+      "devices",
+      "smartphone",
+      "tablet_mac",
+      "visibility",
+      "expand_more",
+      "assignment_turned_in",
+      "policy",
+      "open_in_new",
+      "warning",
+      "logout",
+      "delete_forever",
+      "info",
+      "check_circle"
+    ],
+    "png": {
+      "width": 299,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "44_aile_verilerini_d_a_aktarma",
+    "title": "",
+    "headings": [
+      "Veri Dışa Aktarma",
+      "Dışa Aktarılacak İçerikler",
+      "Biçim ve Paketleme"
+    ],
+    "buttons": [
+      "arrow_back",
+      "notifications",
+      "more_vert",
+      "Tümünü Seç",
+      "download Dışa Aktarma Paketini İndir",
+      "İptal Et"
+    ],
+    "fields": [
+      "<input checked=\"\" class=\"export-checkbox w-5 h-5 rounded text-secondary accent-[#934a32] focus:ring-0 cursor-pointer\" data-size=\"2100\" type=\"checkbox\"/>",
+      "<input checked=\"\" class=\"export-checkbox w-5 h-5 rounded text-secondary accent-[#934a32] focus:ring-0 cursor-pointer\" data-size=\"850\" type=\"checkbox\"/>",
+      "<input checked=\"\" class=\"export-checkbox w-5 h-5 rounded text-secondary accent-[#934a32] focus:ring-0 cursor-pointer\" data-size=\"120\" type=\"checkbox\"/>",
+      "<input checked=\"\" class=\"export-checkbox w-5 h-5 rounded text-secondary accent-[#934a32] focus:ring-0 cursor-pointer\" data-size=\"15\" type=\"checkbox\"/>",
+      "<input checked=\"\" class=\"export-checkbox w-5 h-5 rounded text-secondary accent-[#934a32] focus:ring-0 cursor-pointer\" data-size=\"25\" type=\"checkbox\"/>",
+      "<input checked=\"\" class=\"w-5 h-5 text-secondary accent-[#934a32] focus:ring-0 cursor-pointer\" name=\"export_format\" type=\"radio\" value=\"zip\"/>",
+      "<input class=\"w-5 h-5 text-secondary accent-[#934a32] focus:ring-0 cursor-pointer\" name=\"export_format\" type=\"radio\" value=\"pdf\"/>",
+      "<input class=\"w-5 h-5 text-secondary accent-[#934a32] focus:ring-0 cursor-pointer\" name=\"export_format\" type=\"radio\" value=\"gedcom\"/>"
+    ],
+    "icons": [
+      "arrow_back",
+      "notifications",
+      "more_vert",
+      "person",
+      "inventory_2",
+      "verified_user",
+      "lock_reset",
+      "photo_library",
+      "graphic_eq",
+      "history_edu",
+      "account_tree",
+      "calendar_month",
+      "wifi",
+      "sync",
+      "mark_email_read",
+      "download"
+    ],
+    "png": {
+      "width": 323,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "45_bo_durum",
+    "title": "",
+    "headings": [
+      "Boş Durum",
+      "Aile Sandığınız İlk Hatırasını Bekliyor"
+    ],
+    "buttons": [
+      "arrow_back",
+      "notifications",
+      "more_vert",
+      "add_photo_alternate + İlk Hatırayı Ekle",
+      "mic + Bir Aile Büyüğünün Sesini Kaydet",
+      "group_add veya Aile Meclisi Üyelerini Davet Et"
+    ],
+    "fields": [],
+    "icons": [
+      "arrow_back",
+      "notifications",
+      "more_vert",
+      "person",
+      "auto_stories",
+      "history_edu",
+      "add_photo_alternate",
+      "mic",
+      "group_add",
+      "lightbulb"
+    ],
+    "png": {
+      "width": 592,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "46_y_kleniyor",
+    "title": "",
+    "headings": [
+      "Yükleniyor"
+    ],
+    "buttons": [
+      "arrow_back",
+      "notifications",
+      "more_vert"
+    ],
+    "fields": [],
+    "icons": [
+      "arrow_back",
+      "notifications",
+      "more_vert",
+      "person",
+      "image",
+      "filter_vintage",
+      "family_restroom",
+      "auto_stories",
+      "landscape",
+      "play_arrow"
+    ],
+    "png": {
+      "width": 389,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "47_hata_durumu",
+    "title": "",
+    "headings": [
+      "Hata Durumu",
+      "Hatıra Kaydı Tamamlanamadı"
+    ],
+    "buttons": [
+      "arrow_back",
+      "notifications",
+      "more_vert",
+      "refresh İşlemi Tekrar Dene",
+      "cottage Ana Sayfaya Dön",
+      "help_center KÖK Destek Ekibine Bildir veya Yardım Rehberini Aç"
+    ],
+    "fields": [],
+    "icons": [
+      "arrow_back",
+      "notifications",
+      "more_vert",
+      "person",
+      "eco",
+      "lock",
+      "verified",
+      "refresh",
+      "cottage",
+      "help_center",
+      "tag"
+    ],
+    "png": {
+      "width": 628,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "48_evrimd_durum",
+    "title": "",
+    "headings": [
+      "Çevrimdışı Durum",
+      "İnternet Bağlantınız Bulunmuyor",
+      "Çevrimdışı Bellek Durumu",
+      "KÖK Çevrimdışı İlkeleri"
+    ],
+    "buttons": [
+      "arrow_back",
+      "notifications",
+      "more_vert",
+      "wifi_find Bağlantıyı Yeniden Kontrol Et",
+      "folder_open İndirilen Arşive Göz At",
+      "Çevrimdışı Çalışma İlkeleri Hakkında Bilgi",
+      "close",
+      "Anladım"
+    ],
+    "fields": [],
+    "icons": [
+      "arrow_back",
+      "notifications",
+      "more_vert",
+      "person",
+      "cloud_sync",
+      "check",
+      "hourglass_top",
+      "wifi_find",
+      "folder_open",
+      "close"
+    ],
+    "png": {
+      "width": 481,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  },
+  {
+    "folder": "k_k_ui_kit_tasar_m_sistemi_dok_mantasyonu",
+    "title": "KÖK — Tasarım Sistemi & UI Kit",
+    "headings": [
+      "KÖK Tasarım Sistemi & UI Kit",
+      "1. Renk Paleti ve WCAG Kontrast Değerleri",
+      "Sıcak Fildişi (Background)",
+      "Saf Keten Yüzey (Surface)",
+      "Derin Orman (Primary)",
+      "Toprak Taşı (Secondary)",
+      "Adaçayı Vurgusu",
+      "Pişmiş Toprak (Accent)",
+      "Doğal Keten (Surface Dim)",
+      "Keten Kenarlık (Border)",
+      "2. Tipografi & Hiyerarşi (40+ Yaş Okunabilirlik Standardı)",
+      "3. Reusable UI Bileşenleri (Minimum 48×48 dp Touch Target)",
+      "Etkileşim Butonları",
+      "Giriş Alanları (48dp Touch Area)",
+      "Soy Ağacı Kişi Düğümü (Node)",
+      "Sesli Tarih Kartı & Oynatıcı",
+      "Android Alt Navigasyon Standartları (5 Temel Sekme)"
+    ],
+    "buttons": [
+      "Yeni Hatıra Ekle",
+      "Sesli Hikâye Kaydet",
+      "Aile Bireyini Davet Et",
+      "",
+      "Dinle"
+    ],
+    "fields": [
+      "<input type=\"text\" value=\"1968 Çanakkale Yaz Tatili\" class=\"w-full h-12 px-4 rounded-xl bg-[#FAF8F4] border border-[#E5E0D6] text-[#2D3730] text-base font-medium focus:border-[#637B65] focus:outline-none\">",
+      "<input type=\"text\" placeholder=\"Kişi, yer, anı veya yıl arayın...\" class=\"w-full h-12 pl-11 pr-4 rounded-xl bg-[#FAF8F4] border border-[#E5E0D6] text-[#2D3730] text-base placeholder-[#747970] focus:border-[#637B65] focus:outline-none\">"
+    ],
+    "icons": [],
+    "png": {
+      "width": 986,
+      "height": 1600
+    },
+    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+  }
+]

@@ -1,0 +1,16 @@
+node_modules/
+.cache/
+*.log
+.expo/
+**/bin/
+**/obj/
+**/.gradle/
+**/build/
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+design/stitch-original/
+design/*.zip
+docs/audit-env.raw.txt
