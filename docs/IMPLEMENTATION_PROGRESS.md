@@ -20,4 +20,32 @@ Bilinen sorunlar: KNOWN_ISSUES.md.
 
 Sonraki adım: Expo bağımlılıklarını çözümle; gerçek Android prebuild sürümlerini kontrol et; ek araç gerekirse toplu onay iste; Faz 0 kabulünden sonra ilk debug APK.
 
-Kullanıcı onayı: şu an zorunlu eksik araç saptanmadı; herhangi bir lisans kabulü veya sistem değişikliği yapılmadı. Faz 1 sonunda telefondaki açılış ekranı kullanıcı doğrulaması gerekecek.
+İlk tarama sırasında ek araç eksiği görünmüyordu; aşağıdaki gerçek derleme sonucu durumu güncelledi. Herhangi bir lisans kabulü veya sistem değişikliği yapılmadı.
+
+---
+
+FAZ/OTURUM: Faz 0 — Build-Tools kurulum onayı kapısı. TARİH: 2026-11-15.
+
+Tamamlanan işler: Expo development build proje iskeleti, sabit applicationId, native KÖK başlangıç görünümü, süreç ortamı/build/smoke betikleri, tekrar üretilebilir Android güvenlik config plugin'i, 52 çift kaynak doğrulama, 51 Tailwind+1 CSS token çıkarımı, 233 ikon adı; 01 açılış HTML/PNG birlikte incelendi. AGENTS.md kaynak metinle SHA-256 eşitliği doğrulandı. Hazırlık yerel commit'i cc8f63d.
+
+Değiştirilen dosyalar: mobile/, design/{reviews,icons,tokens,source-index}.json, scripts/{extract-*,build-debug,device-smoke,install-approved-sdk}.ps1/mjs, docs/ kayıtları.
+
+Önemli komutlar: npm view/pack/install; expo prebuild --platform android --no-install; tsc --noEmit; eslint .; jest --runInBand; Gradle :app:assembleDebug --no-daemon --max-workers=1 -Pandroid.builder.sdkDownload=false -PreactNativeArchitectures=arm64-v8a; npm audit ve ayrı temiz kilit çözümlemeleri.
+
+Başarılı testler: 2 başlangıç bileşen testi; TypeScript ve ESLint. Kaynak denetimleri: 52 PNG imzası/HTML eşleşmesi, 233 ikon çıkarımı, 51 config+UI Kit CSS ayrıştırma; bunlar font/kontrast/görsel sadakat testi değildir.
+
+Başarısız/atlanan testler: İlk TS/Jest safe-area test kurulum hataları düzeltildi ve testler yeniden geçti. İlk Gradle çağrısının noktalı argümanı PowerShell'de bölündü, durdurulup betikte düzeltildi. İkinci gerçek Gradle denemesi 8m30s/32 görev sonunda **eksik Build-Tools36.0.0** nedeniyle başarısız; SDK otomatik kurulumu kapalı. Backend/migration olmadığı için dotnet build/test/vulnerability ve PostgreSQL uygulama entegrasyon testleri atlandı. npm aralık override'larının yerinde install/ci tutarsızlığı ayrı aday çözümlemede kesin tüketici sürümlerine geçirilerek araştırıldı; son sonuç aşağıda kaydedilecek.
+
+Cihazda DOĞRULANANLAR: Redmi Note9S Android11/API30/arm64, ADB bağlantısı/yetki/üç kararlılık sorgusu, mikrofon, ekran ve depolama. Yeni uygulama davranışı yok.
+
+Cihazda DOĞRULANMAYANLAR: APK/kurulum/açılış/Metro; tüm uygulama akışları. APK üretilmedi.
+
+Bilinen sorunlar: KNOWN_ISSUES.md. Gradle proje önbelleği ölçümü: 1.343.226.455 byte (~1,25 GiB), build çıktıları hariç; kaynaklar Git dışında.
+
+Sonraki adım: kullanıcı onayı geldikten sonra yalnızca Build-Tools36.0.0 kur, ortamı tekrar doğrula, Faz0 kabulünü tamamla ve debug APK yolunu yeniden dene.
+
+Kullanıcı onayı/doğrulaması gerektirenler: AGENTS.md 1.4-2/3 ve 5.3 uyarınca Build-Tools36.0.0 kurulumu ve gerekiyorsa bu paketin SDK lisansı. Faz0 tamamlandı olarak işaretlenmedi; phase-0 etiketi atılmadı.
+
+Son doğrulama: Gerçek `npm ci --ignore-scripts --include=dev` başarılı (1181 paket). Son npm audit: 8 düşük, 0 orta/yüksek/kritik; çıkış1 açık bulgular nedeniyle beklenen sonuç, temiz güvenlik raporu değildir. Yamalı gerçek kurulumdan sonra Expo prebuild, `npm run typecheck`, `npm run lint`, `npm test -- --watch=false` başarılı. Yeni glob/test-exclude eşlemelerini de kapsayan coverage çalıştırması başarılı: aynı 2 test, yalnızca App.tsx için %100 satır kapsamı; projenin tamamı veya cihaz davranışları için kapsam iddiası yok. Beş PowerShell betiği parser ile sözdizimi kontrolünden geçti; SDK kurulum betiği ve cihaz smoke betiği henüz icra edilmedi. 98 depo aday dosyasında bilinen anahtar/özel anahtar imzaları tarandı, eşleşme yok; bu tüm sırların yokluğunun kanıtı değildir.
+
+Duraklama nedeni: kullanıcı tarafından istenen kurulum onayı kapısı. Eksik SDK paketi kurulmadan veya bu faz tamamlandı diye işaretlenmeden kayıtlar ve kaynak kod commit'e hazırlandı. Kaldığı yer ve onay sonrası komutlar NEXT_SESSION.md içinde.

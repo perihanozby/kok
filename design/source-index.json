@@ -17,7 +17,46 @@
       "width": 706,
       "height": 1600
     },
-    "review": "Yalnızca yapısal tarama; HTML ve PNG birlikte görsel olarak incelenmedi."
+    "review": {
+      "reviewed": "2026-11-15",
+      "evidence": "code.html read and screen.png visually inspected together",
+      "name": "Açılış",
+      "purpose": "Markayı gösterme ve sonraki aşamada oturum/ilk açılış yönlendirmesini belirleme.",
+      "components": [
+        "Dekoratif eş merkezli halkalar",
+        "Beyaz madalyon içinde SVG ağaç ve kökler",
+        "Küçük soy bağı rozeti",
+        "KÖK serif başlık",
+        "Alt başlık",
+        "Alıntı kartı",
+        "Dönen halka ve ağaç ikonu",
+        "Durum mesajı",
+        "Üst güvenlik rozetleri"
+      ],
+      "interactions": "Kaynakta kullanıcı eylemi yok; ileride token yenileme/ilk açılış kontrolüne göre otomatik yönlendirme.",
+      "formValidation": "Form yok.",
+      "assets": "HTML içinde yerel olarak yeniden kullanılabilir inline SVG ağaç. Kaynak uzak Google Fonts ve Material Symbols CSS çağrıları içeriyor; uygulamada kullanılmayacak.",
+      "icons": [
+        "verified_user",
+        "lock",
+        "family_history",
+        "nature"
+      ],
+      "states": "Kaynak yalnızca yükleme görünümü içeriyor; hata/çevrimdışı oturum yenileme davranışı ayrıca tasarlanacak.",
+      "reusableComponents": [
+        "BrandEmblem",
+        "QuoteCard",
+        "ScreenCanvas",
+        "StatusIndicator"
+      ],
+      "backendData": "Güvenli depodan token yenileme ve yerel onboarding durumu; henüz uygulanmadı.",
+      "inconsistencies": [
+        "256-bit Arşiv doğrulanmamış güvenlik iddiası; uygulanmayacak",
+        "Fotoğraf/ses taranıyor mesajı gerçek iş olmadan gösterilmeyecek",
+        "Başlık ve logo fontları Faz 2 yerel font/glif kontrolüne bağlı"
+      ],
+      "mobileAdaptation": "Gerçek sistem çubukları, safe area, dinamik yazı ölçeği, 320–480 dp. Faz 1 basitleştirilmiş native marka ekranıdır; son görsel sadakat iddiası yok."
+    }
   },
   {
     "folder": "02_onboarding_aile_hat_ralar",

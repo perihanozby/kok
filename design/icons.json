@@ -1,0 +1,1677 @@
+{
+  "icons": [
+    "account_tree",
+    "add",
+    "add_a_photo",
+    "add_circle",
+    "add_photo_alternate",
+    "admin_panel_settings",
+    "all_inclusive",
+    "alt_route",
+    "alternate_email",
+    "architecture",
+    "archive",
+    "arrow_back",
+    "arrow_back_ios_new",
+    "arrow_drop_down",
+    "arrow_forward",
+    "article",
+    "assignment_turned_in",
+    "attachment",
+    "auto_awesome",
+    "auto_fix_high",
+    "auto_stories",
+    "badge",
+    "battery_full",
+    "bedtime",
+    "bookmark",
+    "bookmark_added",
+    "bookmark_border",
+    "cached",
+    "calendar_month",
+    "calendar_today",
+    "cancel",
+    "chat",
+    "chat_bubble",
+    "chat_bubble_outline",
+    "check",
+    "check_circle",
+    "checklist",
+    "chevron_left",
+    "chevron_right",
+    "child_care",
+    "child_friendly",
+    "church",
+    "circle",
+    "close",
+    "cloud_download",
+    "cloud_sync",
+    "cloud_upload",
+    "collections",
+    "collections_bookmark",
+    "content_copy",
+    "content_paste",
+    "contrast",
+    "cottage",
+    "delete",
+    "delete_forever",
+    "delete_outline",
+    "description",
+    "devices",
+    "diversity_1",
+    "diversity_3",
+    "document_scanner",
+    "done",
+    "door_open",
+    "download",
+    "download_for_offline",
+    "draw",
+    "drive_file_move",
+    "east",
+    "eco",
+    "edit",
+    "edit_calendar",
+    "edit_location",
+    "edit_note",
+    "elderly",
+    "error",
+    "event",
+    "event_busy",
+    "expand_more",
+    "explore",
+    "face",
+    "face_6",
+    "family_history",
+    "family_restroom",
+    "favorite",
+    "favorite_border",
+    "female",
+    "filter_alt_off",
+    "filter_vintage",
+    "fingerprint",
+    "flight_takeoff",
+    "folder_open",
+    "format_bold",
+    "format_italic",
+    "format_list_bulleted",
+    "format_quote",
+    "format_size",
+    "forum",
+    "forward_10",
+    "forward_30",
+    "fullscreen",
+    "gavel",
+    "graphic_eq",
+    "grid_view",
+    "group",
+    "group_add",
+    "groups",
+    "headphones",
+    "hearing",
+    "help_center",
+    "history",
+    "history_edu",
+    "home_pin",
+    "hourglass_top",
+    "how_to_reg",
+    "hub",
+    "image",
+    "info",
+    "interpreter_mode",
+    "inventory_2",
+    "key",
+    "label",
+    "landscape",
+    "lightbulb",
+    "link",
+    "local_offer",
+    "location_on",
+    "lock",
+    "lock_clock",
+    "lock_person",
+    "lock_reset",
+    "logout",
+    "mail",
+    "mail_lock",
+    "mail_outline",
+    "male",
+    "manage_accounts",
+    "map",
+    "mark_as_unread",
+    "mark_email_read",
+    "mark_email_unread",
+    "menu_book",
+    "mic",
+    "mic_double",
+    "mic_external_on",
+    "mic_off",
+    "military_tech",
+    "mode_comment",
+    "more_horiz",
+    "more_vert",
+    "nature",
+    "nature_people",
+    "nest_multi_room",
+    "notifications",
+    "notifications_active",
+    "open_in_new",
+    "outgoing_mail",
+    "palette",
+    "park",
+    "password",
+    "pause",
+    "pending_actions",
+    "perm_media",
+    "person",
+    "person_add",
+    "person_pin",
+    "person_remove",
+    "person_search",
+    "phonelink_ring",
+    "photo_album",
+    "photo_camera",
+    "photo_library",
+    "pie_chart",
+    "pin_drop",
+    "play_arrow",
+    "play_circle",
+    "policy",
+    "progress_activity",
+    "psychology_alt",
+    "radio_button_unchecked",
+    "receipt_long",
+    "record_voice_over",
+    "refresh",
+    "replay_10",
+    "restart_alt",
+    "roofing",
+    "sailing",
+    "save",
+    "schedule",
+    "school",
+    "search",
+    "search_off",
+    "security",
+    "send",
+    "settings",
+    "share",
+    "shield",
+    "shield_person",
+    "shield_with_heart",
+    "signal_cellular_alt",
+    "skip_next",
+    "skip_previous",
+    "smartphone",
+    "sort",
+    "spa",
+    "star",
+    "storefront",
+    "subject",
+    "swap_horiz",
+    "swap_vert",
+    "sync",
+    "sync_saved_locally",
+    "table_chart",
+    "tablet_mac",
+    "tag",
+    "task_alt",
+    "timeline",
+    "timer",
+    "translate",
+    "tune",
+    "unfold_more",
+    "upgrade",
+    "upload_file",
+    "verified",
+    "verified_user",
+    "visibility",
+    "visibility_off",
+    "volume_up",
+    "warning",
+    "wifi",
+    "wifi_find",
+    "workspace_premium",
+    "zoom_in",
+    "zoom_out"
+  ],
+  "usage": {
+    "verified_user": [
+      "01_a_l_ekran_splash",
+      "04_onboarding_zel_aile_alan",
+      "07_hesap_olu_tur",
+      "08_ifremi_unuttum",
+      "09_hesap_do_rulama",
+      "11_aile_alan_olu_tur",
+      "21_b_yorum_ekleme_modal",
+      "22_yeni_hat_ra_olu_tur",
+      "26_b_gece_dinleme_modu_ses_oynat_c",
+      "26_ses_oynat_c",
+      "27_ses_kayd_detay",
+      "35_aile_yeleri_ve_davetler",
+      "36_aile_yesi_davet_etme",
+      "37_roller_ve_i_zinler",
+      "39_filtrelenmi_arama_sonu_lar",
+      "43_gizlilik_ve_g_venlik",
+      "44_aile_verilerini_d_a_aktarma"
+    ],
+    "lock": [
+      "01_a_l_ekran_splash",
+      "04_onboarding_zel_aile_alan",
+      "05_dil_se_imi",
+      "06_giri_yap",
+      "07_hesap_olu_tur",
+      "11_aile_alan_olu_tur",
+      "12_aile_alan_na_davetle_kat_l",
+      "17_aile_bireyi_detay_profili",
+      "21_hat_ra_detay",
+      "25_ses_kay_t_st_dyosu_voice_recording_studio",
+      "27_ses_kayd_detay",
+      "28_foto_raf_alb_mleri",
+      "31_foto_raf_y_kleme",
+      "36_aile_yesi_davet_etme",
+      "39_filtrelenmi_arama_sonu_lar",
+      "40_profilim",
+      "43_gizlilik_ve_g_venlik",
+      "47_hata_durumu"
+    ],
+    "family_history": [
+      "01_a_l_ekran_splash",
+      "03_onboarding_sesli_hik_yeler",
+      "11_aile_alan_olu_tur",
+      "12_aile_alan_na_davetle_kat_l",
+      "26_b_gece_dinleme_modu_ses_oynat_c"
+    ],
+    "nature": [
+      "01_a_l_ekran_splash"
+    ],
+    "auto_stories": [
+      "02_onboarding_aile_hat_ralar",
+      "04_onboarding_zel_aile_alan",
+      "07_hesap_olu_tur",
+      "11_aile_alan_olu_tur",
+      "12_aile_alan_na_davetle_kat_l",
+      "14_aile_aktivite_ak",
+      "16_etkile_imli_aile_soy_a_ac",
+      "19_aile_bireyi_d_zenleme",
+      "20_hat_ralar_k_t_phanesi",
+      "22_yeni_hat_ra_olu_tur",
+      "25_ses_kay_t_st_dyosu_voice_recording_studio",
+      "26_b_gece_dinleme_modu_ses_oynat_c",
+      "26_ses_oynat_c",
+      "32_aile_zaman_izelgesi",
+      "33_yeni_zaman_izelgesi_olay",
+      "34_zaman_izelgesi_olay_detay",
+      "35_aile_yeleri_ve_davetler",
+      "40_profilim",
+      "45_bo_durum",
+      "46_y_kleniyor"
+    ],
+    "favorite": [
+      "02_onboarding_aile_hat_ralar",
+      "14_aile_aktivite_ak",
+      "15_bildirimler",
+      "16_etkile_imli_aile_soy_a_ac",
+      "17_aile_bireyi_detay_profili",
+      "18_yeni_aile_bireyi_ekleme",
+      "20_hat_ralar_k_t_phanesi",
+      "21_hat_ra_detay",
+      "22_yeni_hat_ra_olu_tur",
+      "32_aile_zaman_izelgesi",
+      "33_yeni_zaman_izelgesi_olay",
+      "34_zaman_izelgesi_olay_detay"
+    ],
+    "arrow_forward": [
+      "02_onboarding_aile_hat_ralar",
+      "03_onboarding_sesli_hik_yeler",
+      "04_onboarding_zel_aile_alan",
+      "05_dil_se_imi",
+      "06_giri_yap",
+      "10_ki_isel_profil_olu_tur",
+      "13_ana_sayfa_home_dashboard",
+      "15_bildirimler",
+      "20_hat_ralar_k_t_phanesi",
+      "24_sesli_hik_yeler_k_t_phanesi",
+      "26_b_gece_dinleme_modu_ses_oynat_c",
+      "30_foto_raf_detay",
+      "32_aile_zaman_izelgesi",
+      "34_zaman_izelgesi_olay_detay",
+      "39_filtrelenmi_arama_sonu_lar",
+      "40_profilim"
+    ],
+    "arrow_back": [
+      "03_onboarding_sesli_hik_yeler",
+      "04_onboarding_zel_aile_alan",
+      "08_ifremi_unuttum",
+      "17_aile_bireyi_detay_profili",
+      "17_b_aile_bireyi_foto_raf_galerisi",
+      "18_yeni_aile_bireyi_ekleme",
+      "19_aile_bireyi_d_zenleme",
+      "21_b_yorum_ekleme_modal",
+      "21_hat_ra_detay",
+      "22_yeni_hat_ra_olu_tur",
+      "23_hat_ra_d_zenleme",
+      "25_ses_kay_t_st_dyosu_voice_recording_studio",
+      "26_b_gece_dinleme_modu_ses_oynat_c",
+      "26_ses_oynat_c",
+      "27_ses_kayd_detay",
+      "29_alb_m_detay",
+      "30_foto_raf_detay",
+      "31_foto_raf_y_kleme",
+      "33_yeni_zaman_izelgesi_olay",
+      "34_zaman_izelgesi_olay_detay",
+      "36_aile_yesi_davet_etme",
+      "37_roller_ve_i_zinler",
+      "38_genel_arama",
+      "39_filtrelenmi_arama_sonu_lar",
+      "41_profil_d_zenleme",
+      "42_ayarlar",
+      "43_gizlilik_ve_g_venlik",
+      "44_aile_verilerini_d_a_aktarma",
+      "45_bo_durum",
+      "46_y_kleniyor",
+      "47_hata_durumu",
+      "48_evrimd_durum"
+    ],
+    "play_arrow": [
+      "03_onboarding_sesli_hik_yeler",
+      "13_ana_sayfa_home_dashboard",
+      "14_aile_aktivite_ak",
+      "15_bildirimler",
+      "16_etkile_imli_aile_soy_a_ac",
+      "17_aile_bireyi_detay_profili",
+      "17_b_aile_bireyi_foto_raf_galerisi",
+      "20_hat_ralar_k_t_phanesi",
+      "21_hat_ra_detay",
+      "22_yeni_hat_ra_olu_tur",
+      "24_sesli_hik_yeler_k_t_phanesi",
+      "30_foto_raf_detay",
+      "32_aile_zaman_izelgesi",
+      "33_yeni_zaman_izelgesi_olay",
+      "34_zaman_izelgesi_olay_detay",
+      "39_filtrelenmi_arama_sonu_lar",
+      "46_y_kleniyor"
+    ],
+    "mic": [
+      "03_onboarding_sesli_hik_yeler",
+      "04_onboarding_zel_aile_alan",
+      "13_ana_sayfa_home_dashboard",
+      "14_aile_aktivite_ak",
+      "15_bildirimler",
+      "16_etkile_imli_aile_soy_a_ac",
+      "17_aile_bireyi_detay_profili",
+      "19_aile_bireyi_d_zenleme",
+      "20_hat_ralar_k_t_phanesi",
+      "21_b_yorum_ekleme_modal",
+      "21_hat_ra_detay",
+      "22_yeni_hat_ra_olu_tur",
+      "23_hat_ra_d_zenleme",
+      "24_sesli_hik_yeler_k_t_phanesi",
+      "25_ses_kay_t_st_dyosu_voice_recording_studio",
+      "26_ses_oynat_c",
+      "27_ses_kayd_detay",
+      "28_foto_raf_alb_mleri",
+      "29_alb_m_detay",
+      "32_aile_zaman_izelgesi",
+      "33_yeni_zaman_izelgesi_olay",
+      "34_zaman_izelgesi_olay_detay",
+      "35_aile_yeleri_ve_davetler",
+      "38_genel_arama",
+      "39_filtrelenmi_arama_sonu_lar",
+      "40_profilim",
+      "45_bo_durum"
+    ],
+    "photo_library": [
+      "04_onboarding_zel_aile_alan",
+      "13_ana_sayfa_home_dashboard",
+      "14_aile_aktivite_ak",
+      "16_etkile_imli_aile_soy_a_ac",
+      "17_aile_bireyi_detay_profili",
+      "17_b_aile_bireyi_foto_raf_galerisi",
+      "20_hat_ralar_k_t_phanesi",
+      "21_hat_ra_detay",
+      "24_sesli_hik_yeler_k_t_phanesi",
+      "28_foto_raf_alb_mleri",
+      "29_alb_m_detay",
+      "31_foto_raf_y_kleme",
+      "32_aile_zaman_izelgesi",
+      "34_zaman_izelgesi_olay_detay",
+      "35_aile_yeleri_ve_davetler",
+      "38_genel_arama",
+      "40_profilim",
+      "44_aile_verilerini_d_a_aktarma"
+    ],
+    "arrow_back_ios_new": [
+      "05_dil_se_imi",
+      "06_giri_yap",
+      "07_hesap_olu_tur",
+      "08_ifremi_unuttum",
+      "09_hesap_do_rulama",
+      "10_ki_isel_profil_olu_tur",
+      "11_aile_alan_olu_tur",
+      "12_aile_alan_na_davetle_kat_l"
+    ],
+    "person": [
+      "05_dil_se_imi",
+      "06_giri_yap",
+      "07_hesap_olu_tur",
+      "08_ifremi_unuttum",
+      "09_hesap_do_rulama",
+      "10_ki_isel_profil_olu_tur",
+      "11_aile_alan_olu_tur",
+      "12_aile_alan_na_davetle_kat_l",
+      "13_ana_sayfa_home_dashboard",
+      "14_aile_aktivite_ak",
+      "15_bildirimler",
+      "16_etkile_imli_aile_soy_a_ac",
+      "17_b_aile_bireyi_foto_raf_galerisi",
+      "18_yeni_aile_bireyi_ekleme",
+      "20_hat_ralar_k_t_phanesi",
+      "21_b_yorum_ekleme_modal",
+      "21_hat_ra_detay",
+      "22_yeni_hat_ra_olu_tur",
+      "23_hat_ra_d_zenleme",
+      "24_sesli_hik_yeler_k_t_phanesi",
+      "25_ses_kay_t_st_dyosu_voice_recording_studio",
+      "26_b_gece_dinleme_modu_ses_oynat_c",
+      "26_ses_oynat_c",
+      "27_ses_kayd_detay",
+      "28_foto_raf_alb_mleri",
+      "29_alb_m_detay",
+      "30_foto_raf_detay",
+      "31_foto_raf_y_kleme",
+      "32_aile_zaman_izelgesi",
+      "33_yeni_zaman_izelgesi_olay",
+      "34_zaman_izelgesi_olay_detay",
+      "35_aile_yeleri_ve_davetler",
+      "36_aile_yesi_davet_etme",
+      "37_roller_ve_i_zinler",
+      "38_genel_arama",
+      "39_filtrelenmi_arama_sonu_lar",
+      "40_profilim",
+      "41_profil_d_zenleme",
+      "42_ayarlar",
+      "43_gizlilik_ve_g_venlik",
+      "44_aile_verilerini_d_a_aktarma",
+      "45_bo_durum",
+      "46_y_kleniyor",
+      "47_hata_durumu",
+      "48_evrimd_durum"
+    ],
+    "translate": [
+      "05_dil_se_imi"
+    ],
+    "check": [
+      "05_dil_se_imi",
+      "07_hesap_olu_tur",
+      "18_yeni_aile_bireyi_ekleme",
+      "19_aile_bireyi_d_zenleme",
+      "22_yeni_hat_ra_olu_tur",
+      "25_ses_kay_t_st_dyosu_voice_recording_studio",
+      "27_ses_kayd_detay",
+      "39_filtrelenmi_arama_sonu_lar",
+      "48_evrimd_durum"
+    ],
+    "radio_button_unchecked": [
+      "05_dil_se_imi",
+      "29_alb_m_detay"
+    ],
+    "info": [
+      "05_dil_se_imi",
+      "09_hesap_do_rulama",
+      "12_aile_alan_na_davetle_kat_l",
+      "17_b_aile_bireyi_foto_raf_galerisi",
+      "36_aile_yesi_davet_etme",
+      "42_ayarlar",
+      "43_gizlilik_ve_g_venlik"
+    ],
+    "verified": [
+      "06_giri_yap",
+      "12_aile_alan_na_davetle_kat_l",
+      "16_etkile_imli_aile_soy_a_ac",
+      "17_aile_bireyi_detay_profili",
+      "17_b_aile_bireyi_foto_raf_galerisi",
+      "19_aile_bireyi_d_zenleme",
+      "20_hat_ralar_k_t_phanesi",
+      "25_ses_kay_t_st_dyosu_voice_recording_studio",
+      "28_foto_raf_alb_mleri",
+      "29_alb_m_detay",
+      "30_foto_raf_detay",
+      "31_foto_raf_y_kleme",
+      "32_aile_zaman_izelgesi",
+      "34_zaman_izelgesi_olay_detay",
+      "40_profilim",
+      "42_ayarlar",
+      "47_hata_durumu"
+    ],
+    "mail": [
+      "06_giri_yap",
+      "07_hesap_olu_tur",
+      "15_bildirimler",
+      "20_hat_ralar_k_t_phanesi",
+      "36_aile_yesi_davet_etme"
+    ],
+    "key": [
+      "06_giri_yap",
+      "08_ifremi_unuttum",
+      "11_aile_alan_olu_tur",
+      "12_aile_alan_na_davetle_kat_l",
+      "36_aile_yesi_davet_etme"
+    ],
+    "visibility_off": [
+      "06_giri_yap"
+    ],
+    "door_open": [
+      "06_giri_yap"
+    ],
+    "gavel": [
+      "06_giri_yap"
+    ],
+    "shield": [
+      "06_giri_yap",
+      "07_hesap_olu_tur",
+      "10_ki_isel_profil_olu_tur",
+      "18_yeni_aile_bireyi_ekleme",
+      "27_ses_kayd_detay",
+      "28_foto_raf_alb_mleri",
+      "29_alb_m_detay",
+      "31_foto_raf_y_kleme",
+      "33_yeni_zaman_izelgesi_olay",
+      "34_zaman_izelgesi_olay_detay",
+      "38_genel_arama"
+    ],
+    "progress_activity": [
+      "06_giri_yap",
+      "08_ifremi_unuttum",
+      "12_aile_alan_na_davetle_kat_l",
+      "21_b_yorum_ekleme_modal",
+      "41_profil_d_zenleme"
+    ],
+    "check_circle": [
+      "06_giri_yap",
+      "08_ifremi_unuttum",
+      "10_ki_isel_profil_olu_tur",
+      "16_etkile_imli_aile_soy_a_ac",
+      "18_yeni_aile_bireyi_ekleme",
+      "30_foto_raf_detay",
+      "31_foto_raf_y_kleme",
+      "36_aile_yesi_davet_etme",
+      "37_roller_ve_i_zinler",
+      "41_profil_d_zenleme",
+      "43_gizlilik_ve_g_venlik"
+    ],
+    "badge": [
+      "07_hesap_olu_tur",
+      "10_ki_isel_profil_olu_tur",
+      "12_aile_alan_na_davetle_kat_l",
+      "16_etkile_imli_aile_soy_a_ac",
+      "18_yeni_aile_bireyi_ekleme",
+      "19_aile_bireyi_d_zenleme",
+      "36_aile_yesi_davet_etme",
+      "42_ayarlar"
+    ],
+    "visibility": [
+      "07_hesap_olu_tur",
+      "22_yeni_hat_ra_olu_tur",
+      "36_aile_yesi_davet_etme",
+      "37_roller_ve_i_zinler",
+      "41_profil_d_zenleme",
+      "42_ayarlar",
+      "43_gizlilik_ve_g_venlik"
+    ],
+    "circle": [
+      "07_hesap_olu_tur"
+    ],
+    "archive": [
+      "07_hesap_olu_tur",
+      "11_aile_alan_olu_tur",
+      "22_yeni_hat_ra_olu_tur",
+      "27_ses_kayd_detay",
+      "30_foto_raf_detay",
+      "31_foto_raf_y_kleme"
+    ],
+    "mail_lock": [
+      "08_ifremi_unuttum"
+    ],
+    "alternate_email": [
+      "08_ifremi_unuttum",
+      "36_aile_yesi_davet_etme"
+    ],
+    "send": [
+      "08_ifremi_unuttum",
+      "21_b_yorum_ekleme_modal",
+      "21_hat_ra_detay",
+      "36_aile_yesi_davet_etme"
+    ],
+    "mark_email_read": [
+      "08_ifremi_unuttum",
+      "13_ana_sayfa_home_dashboard",
+      "21_b_yorum_ekleme_modal",
+      "44_aile_verilerini_d_a_aktarma"
+    ],
+    "history_edu": [
+      "08_ifremi_unuttum",
+      "13_ana_sayfa_home_dashboard",
+      "14_aile_aktivite_ak",
+      "15_bildirimler",
+      "17_aile_bireyi_detay_profili",
+      "17_b_aile_bireyi_foto_raf_galerisi",
+      "18_yeni_aile_bireyi_ekleme",
+      "20_hat_ralar_k_t_phanesi",
+      "21_hat_ra_detay",
+      "23_hat_ra_d_zenleme",
+      "33_yeni_zaman_izelgesi_olay",
+      "34_zaman_izelgesi_olay_detay",
+      "37_roller_ve_i_zinler",
+      "38_genel_arama",
+      "41_profil_d_zenleme",
+      "44_aile_verilerini_d_a_aktarma",
+      "45_bo_durum"
+    ],
+    "mark_email_unread": [
+      "09_hesap_do_rulama"
+    ],
+    "hourglass_top": [
+      "09_hesap_do_rulama",
+      "12_aile_alan_na_davetle_kat_l",
+      "19_aile_bireyi_d_zenleme",
+      "35_aile_yeleri_ve_davetler",
+      "48_evrimd_durum"
+    ],
+    "task_alt": [
+      "09_hesap_do_rulama",
+      "22_yeni_hat_ra_olu_tur",
+      "41_profil_d_zenleme"
+    ],
+    "link": [
+      "09_hesap_do_rulama",
+      "14_aile_aktivite_ak",
+      "35_aile_yeleri_ve_davetler",
+      "36_aile_yesi_davet_etme"
+    ],
+    "chevron_right": [
+      "10_ki_isel_profil_olu_tur",
+      "11_aile_alan_olu_tur",
+      "13_ana_sayfa_home_dashboard",
+      "14_aile_aktivite_ak",
+      "17_aile_bireyi_detay_profili",
+      "17_b_aile_bireyi_foto_raf_galerisi",
+      "26_ses_oynat_c",
+      "30_foto_raf_detay",
+      "32_aile_zaman_izelgesi",
+      "34_zaman_izelgesi_olay_detay",
+      "35_aile_yeleri_ve_davetler",
+      "38_genel_arama",
+      "40_profilim",
+      "42_ayarlar",
+      "43_gizlilik_ve_g_venlik"
+    ],
+    "eco": [
+      "10_ki_isel_profil_olu_tur",
+      "47_hata_durumu"
+    ],
+    "photo_camera": [
+      "10_ki_isel_profil_olu_tur",
+      "17_aile_bireyi_detay_profili",
+      "18_yeni_aile_bireyi_ekleme",
+      "19_aile_bireyi_d_zenleme",
+      "20_hat_ralar_k_t_phanesi",
+      "28_foto_raf_alb_mleri",
+      "30_foto_raf_detay",
+      "33_yeni_zaman_izelgesi_olay",
+      "35_aile_yeleri_ve_davetler",
+      "39_filtrelenmi_arama_sonu_lar",
+      "41_profil_d_zenleme"
+    ],
+    "add_a_photo": [
+      "10_ki_isel_profil_olu_tur",
+      "17_b_aile_bireyi_foto_raf_galerisi",
+      "23_hat_ra_d_zenleme",
+      "34_zaman_izelgesi_olay_detay"
+    ],
+    "calendar_today": [
+      "10_ki_isel_profil_olu_tur",
+      "17_aile_bireyi_detay_profili",
+      "18_yeni_aile_bireyi_ekleme",
+      "22_yeni_hat_ra_olu_tur",
+      "27_ses_kayd_detay",
+      "30_foto_raf_detay",
+      "31_foto_raf_y_kleme",
+      "40_profilim",
+      "41_profil_d_zenleme"
+    ],
+    "location_on": [
+      "10_ki_isel_profil_olu_tur",
+      "17_b_aile_bireyi_foto_raf_galerisi",
+      "18_yeni_aile_bireyi_ekleme",
+      "19_aile_bireyi_d_zenleme",
+      "21_hat_ra_detay",
+      "22_yeni_hat_ra_olu_tur",
+      "23_hat_ra_d_zenleme",
+      "29_alb_m_detay",
+      "30_foto_raf_detay",
+      "31_foto_raf_y_kleme",
+      "33_yeni_zaman_izelgesi_olay",
+      "34_zaman_izelgesi_olay_detay",
+      "39_filtrelenmi_arama_sonu_lar",
+      "41_profil_d_zenleme"
+    ],
+    "lock_clock": [
+      "10_ki_isel_profil_olu_tur"
+    ],
+    "edit": [
+      "10_ki_isel_profil_olu_tur",
+      "17_aile_bireyi_detay_profili",
+      "18_yeni_aile_bireyi_ekleme",
+      "19_aile_bireyi_d_zenleme",
+      "21_b_yorum_ekleme_modal",
+      "26_b_gece_dinleme_modu_ses_oynat_c",
+      "27_ses_kayd_detay",
+      "29_alb_m_detay",
+      "30_foto_raf_detay",
+      "31_foto_raf_y_kleme",
+      "33_yeni_zaman_izelgesi_olay",
+      "34_zaman_izelgesi_olay_detay",
+      "41_profil_d_zenleme",
+      "42_ayarlar"
+    ],
+    "sync": [
+      "10_ki_isel_profil_olu_tur",
+      "18_yeni_aile_bireyi_ekleme",
+      "22_yeni_hat_ra_olu_tur",
+      "37_roller_ve_i_zinler",
+      "44_aile_verilerini_d_a_aktarma"
+    ],
+    "swap_horiz": [
+      "11_aile_alan_olu_tur"
+    ],
+    "shield_person": [
+      "11_aile_alan_olu_tur",
+      "40_profilim",
+      "42_ayarlar"
+    ],
+    "mail_outline": [
+      "11_aile_alan_olu_tur"
+    ],
+    "close": [
+      "11_aile_alan_olu_tur",
+      "12_aile_alan_na_davetle_kat_l",
+      "17_b_aile_bireyi_foto_raf_galerisi",
+      "18_yeni_aile_bireyi_ekleme",
+      "21_b_yorum_ekleme_modal",
+      "22_yeni_hat_ra_olu_tur",
+      "23_hat_ra_d_zenleme",
+      "29_alb_m_detay",
+      "31_foto_raf_y_kleme",
+      "33_yeni_zaman_izelgesi_olay",
+      "38_genel_arama",
+      "41_profil_d_zenleme",
+      "48_evrimd_durum"
+    ],
+    "content_paste": [
+      "12_aile_alan_na_davetle_kat_l"
+    ],
+    "nest_multi_room": [
+      "12_aile_alan_na_davetle_kat_l"
+    ],
+    "person_pin": [
+      "12_aile_alan_na_davetle_kat_l",
+      "16_etkile_imli_aile_soy_a_ac",
+      "31_foto_raf_y_kleme"
+    ],
+    "how_to_reg": [
+      "12_aile_alan_na_davetle_kat_l",
+      "15_bildirimler",
+      "27_ses_kayd_detay"
+    ],
+    "signal_cellular_alt": [
+      "13_ana_sayfa_home_dashboard",
+      "14_aile_aktivite_ak",
+      "15_bildirimler",
+      "16_etkile_imli_aile_soy_a_ac",
+      "17_aile_bireyi_detay_profili",
+      "18_yeni_aile_bireyi_ekleme",
+      "19_aile_bireyi_d_zenleme",
+      "25_ses_kay_t_st_dyosu_voice_recording_studio"
+    ],
+    "wifi": [
+      "13_ana_sayfa_home_dashboard",
+      "14_aile_aktivite_ak",
+      "15_bildirimler",
+      "16_etkile_imli_aile_soy_a_ac",
+      "17_aile_bireyi_detay_profili",
+      "18_yeni_aile_bireyi_ekleme",
+      "19_aile_bireyi_d_zenleme",
+      "25_ses_kay_t_st_dyosu_voice_recording_studio",
+      "44_aile_verilerini_d_a_aktarma"
+    ],
+    "battery_full": [
+      "13_ana_sayfa_home_dashboard",
+      "14_aile_aktivite_ak",
+      "15_bildirimler",
+      "16_etkile_imli_aile_soy_a_ac",
+      "17_aile_bireyi_detay_profili",
+      "18_yeni_aile_bireyi_ekleme",
+      "19_aile_bireyi_d_zenleme",
+      "25_ses_kay_t_st_dyosu_voice_recording_studio"
+    ],
+    "search": [
+      "13_ana_sayfa_home_dashboard",
+      "16_etkile_imli_aile_soy_a_ac",
+      "20_hat_ralar_k_t_phanesi",
+      "24_sesli_hik_yeler_k_t_phanesi",
+      "28_foto_raf_alb_mleri",
+      "35_aile_yeleri_ve_davetler",
+      "38_genel_arama",
+      "39_filtrelenmi_arama_sonu_lar",
+      "40_profilim"
+    ],
+    "notifications": [
+      "13_ana_sayfa_home_dashboard",
+      "14_aile_aktivite_ak",
+      "15_bildirimler",
+      "20_hat_ralar_k_t_phanesi",
+      "24_sesli_hik_yeler_k_t_phanesi",
+      "28_foto_raf_alb_mleri",
+      "32_aile_zaman_izelgesi",
+      "36_aile_yesi_davet_etme",
+      "37_roller_ve_i_zinler",
+      "38_genel_arama",
+      "39_filtrelenmi_arama_sonu_lar",
+      "41_profil_d_zenleme",
+      "42_ayarlar",
+      "43_gizlilik_ve_g_venlik",
+      "44_aile_verilerini_d_a_aktarma",
+      "45_bo_durum",
+      "46_y_kleniyor",
+      "47_hata_durumu",
+      "48_evrimd_durum"
+    ],
+    "schedule": [
+      "13_ana_sayfa_home_dashboard",
+      "21_hat_ra_detay",
+      "32_aile_zaman_izelgesi",
+      "34_zaman_izelgesi_olay_detay",
+      "35_aile_yeleri_ve_davetler"
+    ],
+    "add_photo_alternate": [
+      "13_ana_sayfa_home_dashboard",
+      "17_aile_bireyi_detay_profili",
+      "21_b_yorum_ekleme_modal",
+      "21_hat_ra_detay",
+      "22_yeni_hat_ra_olu_tur",
+      "28_foto_raf_alb_mleri",
+      "29_alb_m_detay",
+      "31_foto_raf_y_kleme",
+      "33_yeni_zaman_izelgesi_olay",
+      "45_bo_durum"
+    ],
+    "account_tree": [
+      "13_ana_sayfa_home_dashboard",
+      "14_aile_aktivite_ak",
+      "15_bildirimler",
+      "16_etkile_imli_aile_soy_a_ac",
+      "17_aile_bireyi_detay_profili",
+      "18_yeni_aile_bireyi_ekleme",
+      "19_aile_bireyi_d_zenleme",
+      "20_hat_ralar_k_t_phanesi",
+      "24_sesli_hik_yeler_k_t_phanesi",
+      "28_foto_raf_alb_mleri",
+      "30_foto_raf_detay",
+      "32_aile_zaman_izelgesi",
+      "34_zaman_izelgesi_olay_detay",
+      "35_aile_yeleri_ve_davetler",
+      "36_aile_yesi_davet_etme",
+      "37_roller_ve_i_zinler",
+      "40_profilim",
+      "44_aile_verilerini_d_a_aktarma"
+    ],
+    "record_voice_over": [
+      "13_ana_sayfa_home_dashboard",
+      "14_aile_aktivite_ak",
+      "22_yeni_hat_ra_olu_tur",
+      "23_hat_ra_d_zenleme",
+      "26_b_gece_dinleme_modu_ses_oynat_c",
+      "27_ses_kayd_detay",
+      "33_yeni_zaman_izelgesi_olay"
+    ],
+    "diversity_3": [
+      "13_ana_sayfa_home_dashboard",
+      "16_etkile_imli_aile_soy_a_ac",
+      "27_ses_kayd_detay",
+      "34_zaman_izelgesi_olay_detay",
+      "40_profilim",
+      "42_ayarlar"
+    ],
+    "chat_bubble_outline": [
+      "13_ana_sayfa_home_dashboard",
+      "14_aile_aktivite_ak",
+      "23_hat_ra_d_zenleme"
+    ],
+    "favorite_border": [
+      "13_ana_sayfa_home_dashboard",
+      "18_yeni_aile_bireyi_ekleme"
+    ],
+    "roofing": [
+      "13_ana_sayfa_home_dashboard",
+      "14_aile_aktivite_ak",
+      "15_bildirimler",
+      "16_etkile_imli_aile_soy_a_ac"
+    ],
+    "menu_book": [
+      "13_ana_sayfa_home_dashboard",
+      "14_aile_aktivite_ak",
+      "15_bildirimler",
+      "16_etkile_imli_aile_soy_a_ac",
+      "17_aile_bireyi_detay_profili",
+      "21_hat_ra_detay",
+      "29_alb_m_detay",
+      "30_foto_raf_detay",
+      "39_filtrelenmi_arama_sonu_lar",
+      "42_ayarlar"
+    ],
+    "groups": [
+      "13_ana_sayfa_home_dashboard",
+      "14_aile_aktivite_ak",
+      "15_bildirimler",
+      "16_etkile_imli_aile_soy_a_ac",
+      "23_hat_ra_d_zenleme",
+      "32_aile_zaman_izelgesi",
+      "33_yeni_zaman_izelgesi_olay",
+      "35_aile_yeleri_ve_davetler",
+      "40_profilim"
+    ],
+    "edit_note": [
+      "14_aile_aktivite_ak",
+      "21_b_yorum_ekleme_modal",
+      "21_hat_ra_detay",
+      "22_yeni_hat_ra_olu_tur",
+      "25_ses_kay_t_st_dyosu_voice_recording_studio",
+      "26_ses_oynat_c",
+      "27_ses_kayd_detay",
+      "30_foto_raf_detay",
+      "31_foto_raf_y_kleme",
+      "40_profilim"
+    ],
+    "more_vert": [
+      "14_aile_aktivite_ak",
+      "17_b_aile_bireyi_foto_raf_galerisi",
+      "21_hat_ra_detay",
+      "22_yeni_hat_ra_olu_tur",
+      "23_hat_ra_d_zenleme",
+      "24_sesli_hik_yeler_k_t_phanesi",
+      "26_ses_oynat_c",
+      "27_ses_kayd_detay",
+      "36_aile_yesi_davet_etme",
+      "37_roller_ve_i_zinler",
+      "38_genel_arama",
+      "39_filtrelenmi_arama_sonu_lar",
+      "41_profil_d_zenleme",
+      "42_ayarlar",
+      "43_gizlilik_ve_g_venlik",
+      "44_aile_verilerini_d_a_aktarma",
+      "45_bo_durum",
+      "46_y_kleniyor",
+      "47_hata_durumu",
+      "48_evrimd_durum"
+    ],
+    "bookmark_border": [
+      "14_aile_aktivite_ak",
+      "22_yeni_hat_ra_olu_tur"
+    ],
+    "graphic_eq": [
+      "14_aile_aktivite_ak",
+      "16_etkile_imli_aile_soy_a_ac",
+      "17_aile_bireyi_detay_profili",
+      "17_b_aile_bireyi_foto_raf_galerisi",
+      "24_sesli_hik_yeler_k_t_phanesi",
+      "26_ses_oynat_c",
+      "30_foto_raf_detay",
+      "32_aile_zaman_izelgesi",
+      "38_genel_arama",
+      "44_aile_verilerini_d_a_aktarma"
+    ],
+    "forum": [
+      "14_aile_aktivite_ak",
+      "42_ayarlar"
+    ],
+    "headphones": [
+      "14_aile_aktivite_ak"
+    ],
+    "hub": [
+      "14_aile_aktivite_ak",
+      "18_yeni_aile_bireyi_ekleme"
+    ],
+    "bookmark": [
+      "14_aile_aktivite_ak",
+      "33_yeni_zaman_izelgesi_olay"
+    ],
+    "mode_comment": [
+      "14_aile_aktivite_ak"
+    ],
+    "share": [
+      "14_aile_aktivite_ak",
+      "17_aile_bireyi_detay_profili",
+      "17_b_aile_bireyi_foto_raf_galerisi",
+      "18_yeni_aile_bireyi_ekleme",
+      "19_aile_bireyi_d_zenleme",
+      "21_b_yorum_ekleme_modal",
+      "24_sesli_hik_yeler_k_t_phanesi",
+      "26_b_gece_dinleme_modu_ses_oynat_c",
+      "26_ses_oynat_c",
+      "27_ses_kayd_detay",
+      "29_alb_m_detay",
+      "30_foto_raf_detay",
+      "31_foto_raf_y_kleme",
+      "33_yeni_zaman_izelgesi_olay",
+      "34_zaman_izelgesi_olay_detay",
+      "36_aile_yesi_davet_etme"
+    ],
+    "chat_bubble": [
+      "15_bildirimler",
+      "20_hat_ralar_k_t_phanesi"
+    ],
+    "tune": [
+      "15_bildirimler",
+      "23_hat_ra_d_zenleme",
+      "29_alb_m_detay"
+    ],
+    "person_add": [
+      "16_etkile_imli_aile_soy_a_ac",
+      "18_yeni_aile_bireyi_ekleme",
+      "22_yeni_hat_ra_olu_tur",
+      "23_hat_ra_d_zenleme",
+      "31_foto_raf_y_kleme",
+      "33_yeni_zaman_izelgesi_olay",
+      "35_aile_yeleri_ve_davetler",
+      "36_aile_yesi_davet_etme"
+    ],
+    "family_restroom": [
+      "16_etkile_imli_aile_soy_a_ac",
+      "35_aile_yeleri_ve_davetler",
+      "46_y_kleniyor"
+    ],
+    "workspace_premium": [
+      "16_etkile_imli_aile_soy_a_ac",
+      "34_zaman_izelgesi_olay_detay"
+    ],
+    "collections_bookmark": [
+      "16_etkile_imli_aile_soy_a_ac",
+      "29_alb_m_detay",
+      "38_genel_arama"
+    ],
+    "child_care": [
+      "16_etkile_imli_aile_soy_a_ac",
+      "23_hat_ra_d_zenleme",
+      "32_aile_zaman_izelgesi"
+    ],
+    "expand_more": [
+      "16_etkile_imli_aile_soy_a_ac",
+      "17_aile_bireyi_detay_profili",
+      "20_hat_ralar_k_t_phanesi",
+      "25_ses_kay_t_st_dyosu_voice_recording_studio",
+      "28_foto_raf_alb_mleri",
+      "32_aile_zaman_izelgesi",
+      "43_gizlilik_ve_g_venlik"
+    ],
+    "volume_up": [
+      "16_etkile_imli_aile_soy_a_ac",
+      "26_ses_oynat_c",
+      "27_ses_kayd_detay"
+    ],
+    "add_circle": [
+      "16_etkile_imli_aile_soy_a_ac",
+      "18_yeni_aile_bireyi_ekleme",
+      "20_hat_ralar_k_t_phanesi",
+      "24_sesli_hik_yeler_k_t_phanesi",
+      "32_aile_zaman_izelgesi"
+    ],
+    "military_tech": [
+      "17_aile_bireyi_detay_profili"
+    ],
+    "download": [
+      "17_b_aile_bireyi_foto_raf_galerisi",
+      "29_alb_m_detay",
+      "30_foto_raf_detay",
+      "44_aile_verilerini_d_a_aktarma"
+    ],
+    "zoom_out": [
+      "17_b_aile_bireyi_foto_raf_galerisi",
+      "30_foto_raf_detay"
+    ],
+    "zoom_in": [
+      "17_b_aile_bireyi_foto_raf_galerisi",
+      "30_foto_raf_detay",
+      "39_filtrelenmi_arama_sonu_lar"
+    ],
+    "fullscreen": [
+      "17_b_aile_bireyi_foto_raf_galerisi",
+      "30_foto_raf_detay",
+      "34_zaman_izelgesi_olay_detay"
+    ],
+    "chevron_left": [
+      "17_b_aile_bireyi_foto_raf_galerisi",
+      "30_foto_raf_detay"
+    ],
+    "collections": [
+      "17_b_aile_bireyi_foto_raf_galerisi",
+      "23_hat_ra_d_zenleme"
+    ],
+    "calendar_month": [
+      "17_b_aile_bireyi_foto_raf_galerisi",
+      "19_aile_bireyi_d_zenleme",
+      "21_hat_ra_detay",
+      "23_hat_ra_d_zenleme",
+      "29_alb_m_detay",
+      "33_yeni_zaman_izelgesi_olay",
+      "38_genel_arama",
+      "42_ayarlar",
+      "44_aile_verilerini_d_a_aktarma"
+    ],
+    "tag": [
+      "17_b_aile_bireyi_foto_raf_galerisi",
+      "47_hata_durumu"
+    ],
+    "lock_person": [
+      "17_b_aile_bireyi_foto_raf_galerisi",
+      "18_yeni_aile_bireyi_ekleme",
+      "30_foto_raf_detay",
+      "37_roller_ve_i_zinler"
+    ],
+    "upload_file": [
+      "17_b_aile_bireyi_foto_raf_galerisi"
+    ],
+    "add": [
+      "18_yeni_aile_bireyi_ekleme",
+      "20_hat_ralar_k_t_phanesi",
+      "22_yeni_hat_ra_olu_tur",
+      "23_hat_ra_d_zenleme"
+    ],
+    "female": [
+      "18_yeni_aile_bireyi_ekleme",
+      "19_aile_bireyi_d_zenleme"
+    ],
+    "male": [
+      "18_yeni_aile_bireyi_ekleme",
+      "19_aile_bireyi_d_zenleme"
+    ],
+    "nature_people": [
+      "18_yeni_aile_bireyi_ekleme",
+      "19_aile_bireyi_d_zenleme",
+      "28_foto_raf_alb_mleri",
+      "32_aile_zaman_izelgesi",
+      "35_aile_yeleri_ve_davetler",
+      "40_profilim"
+    ],
+    "event_busy": [
+      "18_yeni_aile_bireyi_ekleme"
+    ],
+    "church": [
+      "18_yeni_aile_bireyi_ekleme"
+    ],
+    "person_search": [
+      "18_yeni_aile_bireyi_ekleme",
+      "38_genel_arama"
+    ],
+    "unfold_more": [
+      "18_yeni_aile_bireyi_ekleme",
+      "31_foto_raf_y_kleme"
+    ],
+    "alt_route": [
+      "18_yeni_aile_bireyi_ekleme"
+    ],
+    "diversity_1": [
+      "18_yeni_aile_bireyi_ekleme",
+      "20_hat_ralar_k_t_phanesi",
+      "22_yeni_hat_ra_olu_tur",
+      "24_sesli_hik_yeler_k_t_phanesi",
+      "28_foto_raf_alb_mleri",
+      "32_aile_zaman_izelgesi"
+    ],
+    "event": [
+      "18_yeni_aile_bireyi_ekleme",
+      "22_yeni_hat_ra_olu_tur",
+      "33_yeni_zaman_izelgesi_olay"
+    ],
+    "cancel": [
+      "19_aile_bireyi_d_zenleme",
+      "20_hat_ralar_k_t_phanesi",
+      "35_aile_yeleri_ve_davetler",
+      "39_filtrelenmi_arama_sonu_lar"
+    ],
+    "warning": [
+      "19_aile_bireyi_d_zenleme",
+      "23_hat_ra_d_zenleme",
+      "43_gizlilik_ve_g_venlik"
+    ],
+    "person_remove": [
+      "19_aile_bireyi_d_zenleme"
+    ],
+    "swap_vert": [
+      "20_hat_ralar_k_t_phanesi",
+      "24_sesli_hik_yeler_k_t_phanesi",
+      "39_filtrelenmi_arama_sonu_lar"
+    ],
+    "grid_view": [
+      "20_hat_ralar_k_t_phanesi",
+      "28_foto_raf_alb_mleri"
+    ],
+    "draw": [
+      "20_hat_ralar_k_t_phanesi"
+    ],
+    "article": [
+      "20_hat_ralar_k_t_phanesi"
+    ],
+    "pin_drop": [
+      "20_hat_ralar_k_t_phanesi",
+      "23_hat_ra_d_zenleme",
+      "27_ses_kayd_detay",
+      "32_aile_zaman_izelgesi",
+      "33_yeni_zaman_izelgesi_olay",
+      "39_filtrelenmi_arama_sonu_lar"
+    ],
+    "timer": [
+      "20_hat_ralar_k_t_phanesi",
+      "26_b_gece_dinleme_modu_ses_oynat_c",
+      "27_ses_kayd_detay",
+      "36_aile_yesi_davet_etme"
+    ],
+    "inventory_2": [
+      "20_hat_ralar_k_t_phanesi",
+      "23_hat_ra_d_zenleme",
+      "30_foto_raf_detay",
+      "42_ayarlar",
+      "44_aile_verilerini_d_a_aktarma"
+    ],
+    "cottage": [
+      "20_hat_ralar_k_t_phanesi",
+      "23_hat_ra_d_zenleme",
+      "24_sesli_hik_yeler_k_t_phanesi",
+      "28_foto_raf_alb_mleri",
+      "32_aile_zaman_izelgesi",
+      "35_aile_yeleri_ve_davetler",
+      "40_profilim",
+      "47_hata_durumu"
+    ],
+    "attachment": [
+      "21_b_yorum_ekleme_modal"
+    ],
+    "chat": [
+      "21_hat_ra_detay",
+      "34_zaman_izelgesi_olay_detay"
+    ],
+    "explore": [
+      "22_yeni_hat_ra_olu_tur",
+      "33_yeni_zaman_izelgesi_olay"
+    ],
+    "format_bold": [
+      "22_yeni_hat_ra_olu_tur",
+      "23_hat_ra_d_zenleme"
+    ],
+    "format_italic": [
+      "22_yeni_hat_ra_olu_tur",
+      "23_hat_ra_d_zenleme"
+    ],
+    "format_quote": [
+      "22_yeni_hat_ra_olu_tur",
+      "23_hat_ra_d_zenleme",
+      "27_ses_kayd_detay",
+      "33_yeni_zaman_izelgesi_olay"
+    ],
+    "format_list_bulleted": [
+      "22_yeni_hat_ra_olu_tur",
+      "23_hat_ra_d_zenleme",
+      "33_yeni_zaman_izelgesi_olay"
+    ],
+    "delete_outline": [
+      "22_yeni_hat_ra_olu_tur",
+      "33_yeni_zaman_izelgesi_olay"
+    ],
+    "local_offer": [
+      "22_yeni_hat_ra_olu_tur"
+    ],
+    "cloud_upload": [
+      "22_yeni_hat_ra_olu_tur",
+      "31_foto_raf_y_kleme"
+    ],
+    "bookmark_added": [
+      "23_hat_ra_d_zenleme",
+      "32_aile_zaman_izelgesi"
+    ],
+    "edit_location": [
+      "23_hat_ra_d_zenleme"
+    ],
+    "delete": [
+      "23_hat_ra_d_zenleme",
+      "29_alb_m_detay"
+    ],
+    "star": [
+      "23_hat_ra_d_zenleme",
+      "24_sesli_hik_yeler_k_t_phanesi",
+      "29_alb_m_detay",
+      "31_foto_raf_y_kleme",
+      "35_aile_yeleri_ve_davetler"
+    ],
+    "delete_forever": [
+      "23_hat_ra_d_zenleme",
+      "43_gizlilik_ve_g_venlik"
+    ],
+    "hearing": [
+      "24_sesli_hik_yeler_k_t_phanesi"
+    ],
+    "mic_off": [
+      "24_sesli_hik_yeler_k_t_phanesi"
+    ],
+    "psychology_alt": [
+      "24_sesli_hik_yeler_k_t_phanesi"
+    ],
+    "lightbulb": [
+      "25_ses_kay_t_st_dyosu_voice_recording_studio",
+      "45_bo_durum"
+    ],
+    "cached": [
+      "25_ses_kay_t_st_dyosu_voice_recording_studio"
+    ],
+    "elderly": [
+      "25_ses_kay_t_st_dyosu_voice_recording_studio",
+      "42_ayarlar"
+    ],
+    "restart_alt": [
+      "25_ses_kay_t_st_dyosu_voice_recording_studio"
+    ],
+    "pause": [
+      "25_ses_kay_t_st_dyosu_voice_recording_studio",
+      "26_b_gece_dinleme_modu_ses_oynat_c",
+      "26_ses_oynat_c",
+      "27_ses_kayd_detay"
+    ],
+    "bedtime": [
+      "26_b_gece_dinleme_modu_ses_oynat_c"
+    ],
+    "skip_previous": [
+      "26_b_gece_dinleme_modu_ses_oynat_c",
+      "26_ses_oynat_c"
+    ],
+    "replay_10": [
+      "26_b_gece_dinleme_modu_ses_oynat_c",
+      "26_ses_oynat_c",
+      "27_ses_kayd_detay",
+      "34_zaman_izelgesi_olay_detay"
+    ],
+    "forward_10": [
+      "26_b_gece_dinleme_modu_ses_oynat_c",
+      "26_ses_oynat_c",
+      "27_ses_kayd_detay"
+    ],
+    "skip_next": [
+      "26_b_gece_dinleme_modu_ses_oynat_c",
+      "26_ses_oynat_c"
+    ],
+    "subject": [
+      "26_b_gece_dinleme_modu_ses_oynat_c",
+      "26_ses_oynat_c"
+    ],
+    "park": [
+      "26_ses_oynat_c"
+    ],
+    "interpreter_mode": [
+      "27_ses_kayd_detay"
+    ],
+    "auto_awesome": [
+      "27_ses_kayd_detay"
+    ],
+    "play_circle": [
+      "27_ses_kayd_detay"
+    ],
+    "content_copy": [
+      "27_ses_kayd_detay",
+      "35_aile_yeleri_ve_davetler",
+      "36_aile_yesi_davet_etme"
+    ],
+    "description": [
+      "28_foto_raf_alb_mleri",
+      "39_filtrelenmi_arama_sonu_lar"
+    ],
+    "checklist": [
+      "29_alb_m_detay"
+    ],
+    "sort": [
+      "29_alb_m_detay"
+    ],
+    "arrow_drop_down": [
+      "29_alb_m_detay",
+      "36_aile_yesi_davet_etme",
+      "39_filtrelenmi_arama_sonu_lar"
+    ],
+    "drive_file_move": [
+      "29_alb_m_detay"
+    ],
+    "group": [
+      "30_foto_raf_detay",
+      "37_roller_ve_i_zinler",
+      "38_genel_arama"
+    ],
+    "face": [
+      "30_foto_raf_detay"
+    ],
+    "document_scanner": [
+      "31_foto_raf_y_kleme"
+    ],
+    "auto_fix_high": [
+      "31_foto_raf_y_kleme"
+    ],
+    "error": [
+      "31_foto_raf_y_kleme"
+    ],
+    "refresh": [
+      "31_foto_raf_y_kleme",
+      "47_hata_durumu"
+    ],
+    "photo_album": [
+      "31_foto_raf_y_kleme"
+    ],
+    "map": [
+      "31_foto_raf_y_kleme"
+    ],
+    "all_inclusive": [
+      "32_aile_zaman_izelgesi",
+      "39_filtrelenmi_arama_sonu_lar"
+    ],
+    "sailing": [
+      "32_aile_zaman_izelgesi"
+    ],
+    "home_pin": [
+      "32_aile_zaman_izelgesi"
+    ],
+    "storefront": [
+      "32_aile_zaman_izelgesi",
+      "33_yeni_zaman_izelgesi_olay",
+      "34_zaman_izelgesi_olay_detay"
+    ],
+    "receipt_long": [
+      "32_aile_zaman_izelgesi"
+    ],
+    "spa": [
+      "32_aile_zaman_izelgesi"
+    ],
+    "flight_takeoff": [
+      "33_yeni_zaman_izelgesi_olay"
+    ],
+    "child_friendly": [
+      "33_yeni_zaman_izelgesi_olay"
+    ],
+    "school": [
+      "33_yeni_zaman_izelgesi_olay"
+    ],
+    "edit_calendar": [
+      "33_yeni_zaman_izelgesi_olay"
+    ],
+    "perm_media": [
+      "33_yeni_zaman_izelgesi_olay"
+    ],
+    "mic_external_on": [
+      "33_yeni_zaman_izelgesi_olay"
+    ],
+    "done": [
+      "33_yeni_zaman_izelgesi_olay"
+    ],
+    "forward_30": [
+      "34_zaman_izelgesi_olay_detay"
+    ],
+    "security": [
+      "35_aile_yeleri_ve_davetler",
+      "40_profilim",
+      "42_ayarlar"
+    ],
+    "phonelink_ring": [
+      "35_aile_yeleri_ve_davetler"
+    ],
+    "outgoing_mail": [
+      "35_aile_yeleri_ve_davetler",
+      "36_aile_yesi_davet_etme"
+    ],
+    "search_off": [
+      "35_aile_yeleri_ve_davetler"
+    ],
+    "admin_panel_settings": [
+      "36_aile_yesi_davet_etme"
+    ],
+    "shield_with_heart": [
+      "37_roller_ve_i_zinler",
+      "43_gizlilik_ve_g_venlik"
+    ],
+    "manage_accounts": [
+      "37_roller_ve_i_zinler",
+      "42_ayarlar"
+    ],
+    "more_horiz": [
+      "37_roller_ve_i_zinler"
+    ],
+    "face_6": [
+      "37_roller_ve_i_zinler"
+    ],
+    "upgrade": [
+      "37_roller_ve_i_zinler"
+    ],
+    "table_chart": [
+      "37_roller_ve_i_zinler"
+    ],
+    "mic_double": [
+      "37_roller_ve_i_zinler"
+    ],
+    "save": [
+      "37_roller_ve_i_zinler"
+    ],
+    "pending_actions": [
+      "37_roller_ve_i_zinler"
+    ],
+    "timeline": [
+      "38_genel_arama",
+      "39_filtrelenmi_arama_sonu_lar"
+    ],
+    "history": [
+      "38_genel_arama"
+    ],
+    "image": [
+      "38_genel_arama",
+      "46_y_kleniyor"
+    ],
+    "mark_as_unread": [
+      "38_genel_arama"
+    ],
+    "east": [
+      "38_genel_arama"
+    ],
+    "label": [
+      "38_genel_arama"
+    ],
+    "filter_alt_off": [
+      "39_filtrelenmi_arama_sonu_lar"
+    ],
+    "download_for_offline": [
+      "40_profilim"
+    ],
+    "settings": [
+      "40_profilim"
+    ],
+    "logout": [
+      "40_profilim",
+      "42_ayarlar",
+      "43_gizlilik_ve_g_venlik"
+    ],
+    "architecture": [
+      "41_profil_d_zenleme"
+    ],
+    "sync_saved_locally": [
+      "41_profil_d_zenleme"
+    ],
+    "notifications_active": [
+      "42_ayarlar"
+    ],
+    "format_size": [
+      "42_ayarlar"
+    ],
+    "contrast": [
+      "42_ayarlar"
+    ],
+    "palette": [
+      "42_ayarlar"
+    ],
+    "fingerprint": [
+      "42_ayarlar",
+      "43_gizlilik_ve_g_venlik"
+    ],
+    "cloud_download": [
+      "42_ayarlar"
+    ],
+    "pie_chart": [
+      "42_ayarlar"
+    ],
+    "help_center": [
+      "42_ayarlar",
+      "47_hata_durumu"
+    ],
+    "password": [
+      "43_gizlilik_ve_g_venlik"
+    ],
+    "devices": [
+      "43_gizlilik_ve_g_venlik"
+    ],
+    "smartphone": [
+      "43_gizlilik_ve_g_venlik"
+    ],
+    "tablet_mac": [
+      "43_gizlilik_ve_g_venlik"
+    ],
+    "assignment_turned_in": [
+      "43_gizlilik_ve_g_venlik"
+    ],
+    "policy": [
+      "43_gizlilik_ve_g_venlik"
+    ],
+    "open_in_new": [
+      "43_gizlilik_ve_g_venlik"
+    ],
+    "lock_reset": [
+      "44_aile_verilerini_d_a_aktarma"
+    ],
+    "group_add": [
+      "45_bo_durum"
+    ],
+    "filter_vintage": [
+      "46_y_kleniyor"
+    ],
+    "landscape": [
+      "46_y_kleniyor"
+    ],
+    "cloud_sync": [
+      "48_evrimd_durum"
+    ],
+    "wifi_find": [
+      "48_evrimd_durum"
+    ],
+    "folder_open": [
+      "48_evrimd_durum"
+    ]
+  },
+  "status": "Extracted names only; font codepoint resolution pending."
+}

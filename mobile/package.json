@@ -1,0 +1,62 @@
+{
+  "name": "kok-mobile",
+  "description": "KÖK Android application",
+  "license": "0BSD",
+  "version": "0.1.0",
+  "main": "index.ts",
+  "dependencies": {
+    "expo": "~58.0.25",
+    "expo-dev-client": "~58.0.20",
+    "expo-status-bar": "~58.0.5",
+    "react": "19.3.0",
+    "react-native": "0.88.1",
+    "react-native-safe-area-context": "~5.11.1"
+  },
+  "devDependencies": {
+    "@testing-library/react-native": "14.1.0",
+    "@types/react": "~19.3.0",
+    "typescript": "~6.0.3",
+    "@types/jest": "30.0.0",
+    "eslint": "^9.39.5",
+    "eslint-config-expo": "~58.0.4",
+    "jest": "~30.5.2",
+    "jest-expo": "~58.0.14",
+    "prettier": "^3.10.1"
+  },
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint .",
+    "format": "prettier --write App.tsx src app.json package.json eslint.config.js",
+    "test": "jest --runInBand"
+  },
+  "private": true,
+  "jest": {
+    "preset": "jest-expo",
+    "testMatch": [
+      "**/__tests__/**/*.test.ts?(x)"
+    ]
+  },
+  "overrides": {
+    "glob": "14.0.6",
+    "test-exclude@6.0.0": {
+      "glob": "7.2.3",
+      "minimatch": "3.1.5"
+    },
+    "@expo/fingerprint@0.21.10": {
+      "minimatch": "11.0.1"
+    },
+    "test-exclude@8.0.0": {
+      "minimatch": "11.0.1"
+    },
+    "@typescript-eslint/typescript-estree@8.72.2": {
+      "minimatch": "11.0.1"
+    },
+    "test-exclude@7.0.2": {
+      "minimatch": "11.0.1"
+    }
+  }
+}

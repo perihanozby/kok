@@ -37,6 +37,12 @@ Tarih: 15 Kasım 2026, Europe/Istanbul. Betik: `scripts/audit-env.ps1`. Yerel ay
 
 ## C — Eksik / uyumsuz araç kurulum listesi
 
-Mevcut kanıtla zorunlu eksik araç saptanmadı. Sistem kurulumu veya SDK lisans kabulü yapılmadı. Prebuild/Gradle incelemesi ek araç gereksinimi gösterirse sürümü ve gerekçesiyle tek toplu onay istenecek.
+İlk araç taramasında zorunlu eksik görülmedi; gerçek debug derlemesi ek gereksinimi kanıtladı:
 
-Faz 0 henüz tamamlanmadı: üretilmiş Android projesinin uyumu ve ilk APK yolu doğrulaması bekliyor. Mobil ve backend testleri henüz mevcut değil.
+| Kurulacak paket | Gerekçe | Hedef | Onay |
+|---|---|---|---|
+| Android SDK Build-Tools **36.0.0** | Gradle `:expo:compileDebugJavaWithJavac`: `Failed to find Build Tools revision 36.0.0`. Uygulama kökü 37.0.0 seçse de Expo kütüphane modülü bu ek sürümü istiyor. | `C:\Android\Sdk\build-tools\36.0.0` | Bekleniyor |
+
+Gerekirse yalnızca bu pakete ait Android SDK lisans kabulü de onay kapsamında olmalı. Kurulum betiği `scripts/install-approved-sdk.ps1` hazır; **çalıştırılmadı**. Android Studio/Docker/JDK/Node/PostgreSQL yeniden kurulmayacak; kalıcı PATH ve kayıt defteri değişikliği planlanmıyor.
+
+Faz 0 henüz tamamlanmadı: eksik Build-Tools kurulumu kullanıcı kapısında bekliyor. Mobilde iki bileşen testi, TypeScript ve lint başarılı; backend henüz yok. APK üretilmedi.

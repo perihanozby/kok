@@ -4,7 +4,7 @@
 
 | Kaynak klasör | HTML başlıkları | PNG | Birlikte inceleme |
 |---|---|---|---|
-| 01_a_l_ekran_splash | KÖK | 706×1600 | Bekliyor |
+| 01_a_l_ekran_splash | KÖK | 706×1600 | İncelendi; ayrıntılar design/reviews.json |
 | 02_onboarding_aile_hat_ralar | Kuşaktan Kuşağa Aile Hatıraları | 706×1600 | Bekliyor |
 | 03_onboarding_sesli_hik_yeler | Büyüklerinizin Sesi Hiç Susmasın | 706×1600 | Bekliyor |
 | 04_onboarding_zel_aile_alan | Ailenize Özel Mahrem ve Güvenli Sandık | 706×1600 | Bekliyor |

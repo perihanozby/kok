@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "KÖK",
+    "slug": "kok-dijital-aile-mirasi",
+    "version": "0.1.0",
+    "orientation": "default",
+    "scheme": "kok",
+    "userInterfaceStyle": "light",
+    "plugins": ["./plugins/withAndroidSafety"],
+    "android": {
+      "package": "com.kok.dijitalailemirasi",
+      "versionCode": 1,
+      "allowBackup": false,
+      "predictiveBackGestureEnabled": false,
+      "blockedPermissions": [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE"
+      ]
+    }
+  }
+}

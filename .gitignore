@@ -2,6 +2,7 @@ node_modules/
 .cache/
 *.log
 .expo/
+coverage/
 **/bin/
 **/obj/
 **/.gradle/
@@ -14,3 +15,4 @@ node_modules/
 design/stitch-original/
 design/*.zip
 docs/audit-env.raw.txt
+docs/**/logcat.local.txt
